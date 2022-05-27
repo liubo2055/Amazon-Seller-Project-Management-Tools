@@ -1,0 +1,158 @@
+<template>
+  <div>
+    <edit-popup
+      v-if="editUrl"
+      :creator-users="creatorUsers"
+      :freelancer-role="freelancerRole"
+      :load-url="editUrl"
+      :locales="locales"
+      :only-private-freelancers="onlyPrivateFreelancers"
+      :roles="roles"
+      :timezones="timezones"
+      @close="edit(null)"
+      @save="reloadTable()"
+    />
+    <import-popup
+      v-if="openImport"
+      :import-url="urls.import"
+      :preview-url="urls.preview"
+      :template-sheet-url="templateSheetUrl"
+      :upload-url="urls.upload"
+      @close="closeImportPopup()"
+      @save="reloadTable()"
+    />
+    <header-comp
+      :show-import-button="showImportButton"
+      @create="edit(urls.new,true)"
+      @import="openImportPopup()"
+    />
+    <filters
+      :filter-fields="filterFields"
+      @change="filters=$event.filters"
+      @initialize="initialize($event.filters)"
+    />
+    <table-comp
+      :columns="columns"
+      :filters="filters"
+      :initial-size="initialSize"
+      :load="loadTable"
+      :url="urls.list"
+      @loaded="loadTable=false"
+      @rowEvent="rowEvent($event)"
+    />
+  </div>
+</template>
+<script>
+  import Filters from 'common/filters/Filters'
+  import EditPopup from './EditPopup'
+  import ImportPopup from './importPopup/ImportPopup'
+  import HeaderComp from './Header'
+  import TableComp from './Table'
+
+  export default {
+    components:{
+      Filters,
+      EditPopup,
+      ImportPopup,
+      HeaderComp,
+      TableComp
+    },
+    props:{
+      urls:{
+        type:Object,
+        required:true
+      },
+      roles:{
+        type:Object,
+        required:true
+      },
+      timezones:{
+        type:Object,
+        required:true
+      },
+      locales:{
+        type:Object,
+        required:true
+      },
+      columns:{
+        type:Array,
+        required:true
+      },
+      initialSize:{
+        type:Number,
+        required:true
+      },
+      filterFields:{
+        type:Array,
+        required:true
+      },
+      showImportButton:{
+        type:Boolean,
+        required:true
+      },
+      templateSheetUrl:{
+        type:String,
+        required:true
+      },
+      creatorUsers:{
+        type:Array,
+        required:true
+      },
+      freelancerRole:{
+        type:String,
+        required:true
+      },
+      onlyPrivateFreelancers:{
+        type:Boolean,
+        required:true
+      }
+    },
+    data(){
+      return {
+        editUrl:null,
+        openImport:false,
+        loadTable:true,
+        filters:{}
+      }
+    },
+    methods:{
+      rowEvent(event){
+        const {
+          action,
+          url
+        }=event
+
+        switch(action){
+          case 'edit':
+            this.edit(url)
+            break
+          case 'block':
+          case 'unblock':
+            this.action(url)
+        }
+      },
+      edit(editUrl){
+        this.editUrl=editUrl
+      },
+      action(url){
+        axios.post(url)
+          .then(()=>{
+            this.reloadTable()
+          })
+      },
+      openImportPopup(){
+        this.openImport=true
+      },
+      closeImportPopup(){
+        this.openImport=false
+      },
+      reloadTable(){
+        this.loadTable=true
+      },
+      initialize(filters){
+        this.filters=filters
+        this.loadTable=true
+      }
+    }
+  }
+</script>

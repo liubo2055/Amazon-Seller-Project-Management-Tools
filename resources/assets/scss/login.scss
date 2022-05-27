@@ -1,0 +1,29 @@
+@media (min-width: 768px){
+  .loginscreen.middle-box{
+    max-width: 768px;
+    width: 768px;
+  }
+
+  .loginscreen .login-forms > div:first-of-type{
+    border-right: 1px dashed Gray;
+    padding-left: 80px;
+  }
+
+  .loginscreen .login-forms > div:last-of-type{
+    padding-right: 80px;
+  }
+
+  .loginscreen .login-forms .above-button{
+    height: 170px;
+  }
+
+  .loginscreen .login-forms .above-button .form-group{
+    // Align with the video from Vimeo
+    padding-top: 13px;
+  }
+
+  .loginscreen .login-forms .above-button iframe{
+    height: 150px;
+    width: 100%;
+  }
+}

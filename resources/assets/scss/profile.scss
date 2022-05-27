@@ -1,0 +1,7 @@
+.storefronts .storefront{
+  padding-top: 10px;
+}
+
+.storefronts .storefront+.storefront{
+  border-top: 1px dashed Gray;
+}

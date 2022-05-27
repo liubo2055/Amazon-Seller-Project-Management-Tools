@@ -1,0 +1,42 @@
+<template>
+  <div
+    ref="html"
+    v-html="value"
+  ></div>
+</template>
+<script>
+  export default {
+    props:{
+      value:{
+        type:String
+      }
+    },
+    data(){
+      return {
+        currentValue:this.value
+      }
+    },
+    watch:{
+      value(value){
+        if(value!==this.currentValue)
+          $(this.$refs.html).summernote('code',value)
+      }
+    },
+    mounted(){
+      $(this.$refs.html).summernote({
+        height:200,
+        callbacks:{
+          onChange:contents=>{
+            this.change(contents)
+          }
+        }
+      })
+    },
+    methods:{
+      change(value){
+        this.currentValue=value
+        this.$emit('input',value)
+      }
+    }
+  }
+</script>

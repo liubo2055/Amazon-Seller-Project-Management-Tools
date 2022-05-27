@@ -1,0 +1,183 @@
+textarea{
+  resize: vertical;
+}
+
+.acronyms{
+  color: DarkGray;
+  padding: 5px 0;
+  text-align: right;
+}
+
+.acronyms > span{
+  display: inline-block;
+  padding: 0 5px;
+}
+
+.acronyms > span + span{
+  border-left: 1px solid LightGray;
+}
+
+.break-word{
+  display: inline-block;
+  margin: 5px;
+  text-indent: -5px;
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.file-input{
+  padding: 5px;
+}
+
+.file-input .preview-image{
+  display: block;
+  max-width: 100%;
+  padding: 5px 0;
+}
+
+.file-input .uploaded{
+  font-style: italic;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.filters .filter{
+  margin: 10px 0;
+}
+
+.filters.filters-horizontal hr{
+  border-top: 1px Gray dashed;
+  padding: 15px;
+}
+
+.filters.filters-horizontal .filter{
+  display: inline-block;
+  padding: 0 10px;
+  width: 25%;
+}
+
+.filters .filter .filter-title{
+  font-weight: bold;
+}
+
+.filters + .table{
+  margin-top: 30px;
+}
+
+.float-e-margins .modal-footer .btn{
+  margin-bottom: 0;
+}
+
+.form-logout .btn-link{
+  padding: 20px 10px;
+}
+
+.logo-element img{
+  width: 50px;
+}
+
+.manager-selection + .validation-error{
+  padding-top: 0;
+}
+
+.modal-body{
+  max-height: 680px;
+  overflow: auto;
+}
+
+.navbar-static-top{
+  margin-bottom: 0;
+}
+
+.profile-element .img-circle{
+  width: 50px;
+}
+
+.rating-input{
+  color: Gold;
+  font-size: 18px;
+  line-height: 24px;
+  vertical-align: top;
+}
+
+.rating-input.rating-input-hover{
+  color: Gray;
+}
+
+.rating-input:not(.rating-input-readonly) > span{
+  cursor: pointer;
+}
+
+.required-field.form-group{
+  display: table;
+  width: 100%;
+}
+
+.required-field.form-group::before{
+  color: Red;
+  content: "*";
+  display: table-cell;
+  font-weight: bold;
+  padding-right: 5px;
+  text-align: left;
+  width: 15px;
+}
+
+.required-field.not-required.form-group::before{
+  content: " ";
+}
+
+.required-field.form-group .form-control{
+  display: table-cell;
+}
+
+.slider-input{
+  padding: 35px 15px 0;
+}
+
+.slider-input .noUi-handle{
+  outline-width: 0;
+}
+
+.table{
+  table-layout: fixed;
+  width: 100%;
+}
+
+.table.table-layout-auto{
+  table-layout: auto;
+}
+
+.table tr td,
+.table tr td *{
+  word-wrap: break-word;
+}
+
+.table tr td .btn-link{
+  display: block;
+  font-size: 13px;
+  padding: 0 0 2px;
+  text-align: left;
+}
+
+.table tr td img{
+  max-width: 100%;
+}
+
+.table tr th.order{
+  cursor: pointer;
+}
+
+.validation-error{
+  padding: 5px 0 25px;
+}
+
+#wrapper label{
+  font-weight: normal;
+  padding: 0 5px;
+}
+
+#wrapper label input{
+  display: inline;
+}

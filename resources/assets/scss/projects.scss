@@ -1,0 +1,25 @@
+.images .image{
+  max-width: 100%;
+}
+
+.images .image,
+.medias .media{
+  margin: 5px 0;
+}
+
+.images .image+.image,
+.medias .media+.media{
+  border-top: 1px dashed Gray;
+}
+
+.similar-projects{
+  cursor: pointer;
+}
+
+.similar-projects .similar-projects-value{
+  color: Red;
+}
+
+.waiting-for-description{
+  background-color: #fce84e;
+}

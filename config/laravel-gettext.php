@@ -1,0 +1,42 @@
+<?php
+
+return [
+  'handler'=>'symfony',
+  'session-identifier'=>'laravel-gettext-locale',
+  'locale'=>'zh_CN',
+  'supported-locales'=>[
+    'en_US',
+    'zh_CN'
+  ],
+  'encoding'=>'UTF-8',
+  'categories'=>['LC_ALL'],
+  'translations-path'=>'../resources/lang',
+  'relative-path'=>'../../../../../app',
+  'fallback-locale'=>'en_US',
+  'domain'=>'messages',
+  'project'=>'X-project',
+  'translator'=>'Bo Liu <boliu@huistore.com>',
+  'source-paths'=>[
+    'Http',
+    '../resources/assets/vue',
+    '../resources/views',
+    'Console',
+    'Entities',
+    '.'
+  ],
+  'sync-laravel'=>true,
+  'adapter'=>\Xinax\LaravelGettext\Adapters\LaravelAdapter::class,
+  'storage'=>\Xinax\LaravelGettext\Storages\SessionStorage::class,
+  'custom-locale'=>false,
+  'keywords-list'=>[
+    '_',
+    '__',
+    '_i',
+    '_ix:1,2c',
+    '_s',
+    'gettext',
+    '_n:1,2',
+    'ngettext:1,2',
+    'dgettext:2'
+  ]
+];

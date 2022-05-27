@@ -1,0 +1,2279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: X-project\n"
+"POT-Creation-Date: 2018-11-19 16:59-0800\n"
+"PO-Revision-Date: 2018-11-19 17:12-0800\n"
+"Last-Translator: Bo Liu\n"
+"Language-Team: Bo Liu <boliu@huistore.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: _;__;_i;_ix:1,2c;_s;gettext;_n:1,2;ngettext:1,2;"
+"dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http\n"
+"X-Poedit-SearchPath-1: ../resources/assets/vue\n"
+"X-Poedit-SearchPath-2: ../resources/views\n"
+"X-Poedit-SearchPath-3: Console\n"
+"X-Poedit-SearchPath-4: Entities\n"
+"X-Poedit-SearchPath-5: .\n"
+"X-Poedit-SearchPath-6: ../storage/framework/messages\n"
+
+#: ../storage/framework/messages/00b0ba0a955f28f41940fca9be941139d4e5dc49.php.php:177
+#: Services/UserImporter/UserImporter.php:177
+msgctxt "User importer"
+msgid "A user with the same email address has already been found in this file"
+msgstr "该Email已注册"
+
+#: ../storage/framework/messages/00b0ba0a955f28f41940fca9be941139d4e5dc49.php.php:239
+#: Services/UserImporter/UserImporter.php:239
+msgctxt "User importer"
+msgid "Email address missing"
+msgstr "Email缺失"
+
+#: ../storage/framework/messages/0262b436fbac8089852262275e1ecd7a0503b4d0.php.php:1
+#: ../storage/framework/messages/dbdbe46cf3b9bdc98946b79acdd5eef767cd25df.php.php:92
+msgctxt "Menu option"
+msgid "Log Viewer"
+msgstr "日志浏览器"
+
+#: ../storage/framework/messages/0262b436fbac8089852262275e1ecd7a0503b4d0.php.php:4
+#: ../storage/framework/messages/0262b436fbac8089852262275e1ecd7a0503b4d0.php.php:8
+msgctxt "Log Viewer"
+msgid "Log Viewer"
+msgstr "日志浏览器"
+
+#: ../storage/framework/messages/0381c3ef35504ecc8b05a6cba06489aed745fa98.php.php:3
+msgctxt "Users"
+msgid "Importing file..."
+msgstr "正在导入用户..."
+
+#: ../storage/framework/messages/0381c3ef35504ecc8b05a6cba06489aed745fa98.php.php:4
+msgctxt "Users"
+msgid "An error has occurred while trying to import the file"
+msgstr "导入用户时发生错误"
+
+#: ../storage/framework/messages/07215ef50813eeaae98acd289db442b2f53272fc.php.php:3
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:30
+msgctxt "To-Dos"
+msgid "Create to-do"
+msgstr "创建新任务/购买VP评价"
+
+#: ../storage/framework/messages/07215ef50813eeaae98acd289db442b2f53272fc.php.php:4
+msgctxt "To-Dos"
+msgid "Create private to-do"
+msgstr "创建您的私有任务 (免费, 但只有您的私有测评师可以看见)"
+
+#: ../storage/framework/messages/07a46e2b3d5c74aeb719323626c9ebd2592c657a.php.php:3
+msgctxt "Users"
+msgid "Freelancer"
+msgstr "测评师"
+
+#: ../storage/framework/messages/07a46e2b3d5c74aeb719323626c9ebd2592c657a.php.php:4
+msgctxt "Users"
+msgid "Employer"
+msgstr "荟员"
+
+#: ../storage/framework/messages/07a46e2b3d5c74aeb719323626c9ebd2592c657a.php.php:5
+msgctxt "Users"
+msgid "Private"
+msgstr "荟员私有"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:17
+#: ../storage/framework/messages/b3bd6050db1510a9575fdaebf80fc70bbaa87107.php.php:4
+#: ../storage/framework/messages/b3bd6050db1510a9575fdaebf80fc70bbaa87107.php.php:8
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:17
+msgctxt "Statistics"
+msgid "Statistics"
+msgstr "报表统计"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:36
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:36
+msgctxt "Statistics"
+msgid "(Other)"
+msgstr "(其他)"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:49
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:49
+msgctxt "Statistics"
+msgid "To-Do ID"
+msgstr "任务ID"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:50
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:50
+msgctxt "Statistics"
+msgid "To-Do ASIN"
+msgstr "ASIN"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:51
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:51
+msgctxt "Statistics"
+msgid "To-Do marketplace"
+msgstr "国家市场"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:52
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:105
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:52
+#: Http/ViewComposers/StatisticsComposer.php:105
+msgctxt "Statistics"
+msgid "Seller name"
+msgstr "荟员/卖家名称"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:53
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:101
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:53
+#: Http/ViewComposers/StatisticsComposer.php:101
+msgctxt "Statistics"
+msgid "Seller ID"
+msgstr "卖家ID"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:54
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:54
+msgctxt "Statistics"
+msgid "Storefront name"
+msgstr "Amazon店铺名称"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:55
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:55
+msgctxt "Statistics"
+msgid "Storefront URL"
+msgstr "卖家Amazon店铺链接"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:56
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:56
+msgctxt "Statistics"
+msgid "To-Do initial price"
+msgstr "初始产品价格"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:57
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:37
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:57
+#: Http/ViewComposers/StatisticsComposer.php:37
+msgctxt "Statistics"
+msgid "Freelancer's name"
+msgstr "测评师"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:58
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:42
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:58
+#: Http/ViewComposers/StatisticsComposer.php:42
+msgctxt "Statistics"
+msgid "Project currency"
+msgstr "产品货币"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:59
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:48
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:59
+#: Http/ViewComposers/StatisticsComposer.php:48
+msgctxt "Statistics"
+msgid "Project price"
+msgstr "产品价格"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:60
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:53
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:60
+#: Http/ViewComposers/StatisticsComposer.php:53
+msgctxt "Statistics"
+msgid "Project status"
+msgstr "状态"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:61
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:61
+msgctxt "Statistics"
+msgid "Project completion ID"
+msgstr "Amz订单号"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:62
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:62
+msgctxt "Statistics"
+msgid "Project completion URL"
+msgstr "评价链接"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:63
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:84
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:63
+#: Http/ViewComposers/StatisticsComposer.php:84
+msgctxt "Statistics"
+msgid "Project created date"
+msgstr "创建日期"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:64
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:85
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:64
+#: Http/ViewComposers/StatisticsComposer.php:85
+msgctxt "Statistics"
+msgid "Completion ID submit date"
+msgstr "Amz订单号提交时间"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:65
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:86
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:65
+#: Http/ViewComposers/StatisticsComposer.php:86
+msgctxt "Statistics"
+msgid "Project completion date"
+msgstr "评价完成日期"
+
+#: ../storage/framework/messages/0a339ae01018299be1023eabc5aef7ba72645be6.php.php:66
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:66
+msgctxt "Statistics"
+msgid "Keywords"
+msgstr "关键词"
+
+#: ../storage/framework/messages/0c8d5c1e8c559dac6cf243c2c45e571e53b87a07.php.php:1
+#: ../storage/framework/messages/dbdbe46cf3b9bdc98946b79acdd5eef767cd25df.php.php:71
+msgctxt "Menu option"
+msgid "Projects"
+msgstr "评价管理"
+
+#: ../storage/framework/messages/0c8d5c1e8c559dac6cf243c2c45e571e53b87a07.php.php:4
+#: ../storage/framework/messages/0c8d5c1e8c559dac6cf243c2c45e571e53b87a07.php.php:8
+msgctxt "Projects"
+msgid "Projects"
+msgstr "评价管理"
+
+#: ../storage/framework/messages/0e859e5da06e3d7f939ee4b92994fc92896972bf.php.php:3
+msgctxt "Log Viewer"
+msgid "Reload"
+msgstr "重新加载"
+
+#: ../storage/framework/messages/0e859e5da06e3d7f939ee4b92994fc92896972bf.php.php:4
+msgctxt "Log Viewer"
+msgid "Download"
+msgstr "下载"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:3
+msgctxt "Projects"
+msgid "View project"
+msgstr "查看评价"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:4
+msgctxt "Projects"
+msgid "Row"
+msgstr "评价ID"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:5
+#: ../storage/framework/messages/eaf37c259faf727727fe4664b8c5f1ef433fe9e8.php.php:4
+msgctxt "Projects"
+msgid "Product title"
+msgstr "产品标题"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:6
+#: ../storage/framework/messages/eaf37c259faf727727fe4664b8c5f1ef433fe9e8.php.php:5
+msgctxt "Projects"
+msgid "Product description"
+msgstr "产品中文描述"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:7
+#: ../storage/framework/messages/9cd07f467003450cbca665cf5a73afeea7a4ccf0.php.php:4
+msgctxt "Projects"
+msgid "Project title"
+msgstr "评价标题"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:8
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:84
+#: ../storage/framework/messages/9cd07f467003450cbca665cf5a73afeea7a4ccf0.php.php:5
+#: Http/ViewComposers/ProjectsComposer.php:84
+msgctxt "Projects"
+msgid "Project description"
+msgstr "评价内容"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:9
+#: ../storage/framework/messages/9cd07f467003450cbca665cf5a73afeea7a4ccf0.php.php:6
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:9
+msgctxt "Projects"
+msgid "Store description"
+msgstr "店铺反馈"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:10
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:34
+#: ../storage/framework/messages/eaf37c259faf727727fe4664b8c5f1ef433fe9e8.php.php:6
+#: Http/ViewComposers/ProjectsComposer.php:34
+msgctxt "Projects"
+msgid "Project price"
+msgstr "测评产品价格"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:11
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:45
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:114
+#: Http/ViewComposers/ProjectsComposer.php:45
+#: Http/ViewComposers/ProjectsComposer.php:114
+msgctxt "Projects"
+msgid "Status"
+msgstr "评测状态"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:12
+msgctxt "Projects"
+msgid "Storefront name"
+msgstr "Amazon店铺名称"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:13
+msgctxt "Projects"
+msgid "Storefront URL"
+msgstr "卖家Amazon店铺链接"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:14
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:108
+#: Http/ViewComposers/ProjectsComposer.php:108
+msgctxt "Projects"
+msgid "Creation date"
+msgstr "创建日期"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:15
+msgctxt "Projects"
+msgid "Completion ID submit date"
+msgstr "Amz订单号提交时间"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:16
+msgctxt "Projects"
+msgid "Completion date"
+msgstr "完成日期"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:17
+#: ../storage/framework/messages/9cd07f467003450cbca665cf5a73afeea7a4ccf0.php.php:7
+msgctxt "Projects"
+msgid "Images"
+msgstr "评价图片"
+
+#: ../storage/framework/messages/0fe3e376a8380d7cf1db7d5bdc07ba3c9fa8b013.php.php:18
+#: ../storage/framework/messages/9cd07f467003450cbca665cf5a73afeea7a4ccf0.php.php:8
+msgctxt "Projects"
+msgid "Media"
+msgstr "媒体"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:22
+#: Http/ViewComposers/TodosComposer.php:22
+msgctxt "To-Dos"
+msgid "ID & ASIN"
+msgstr "任务ID&ASIN"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:27
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:11
+#: Http/ViewComposers/TodosComposer.php:27
+msgctxt "To-Dos"
+msgid "Product price"
+msgstr "产品价格 (e.g. 6.99)"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:32
+#: Http/ViewComposers/TodosComposer.php:32
+msgctxt "To-Dos"
+msgid "Product title & Description"
+msgstr "产品名称和说明"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:37
+#: Http/ViewComposers/TodosComposer.php:37
+msgctxt "To-Dos"
+msgid "Seller name & ID"
+msgstr "荟员名&卖家ID"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:42
+#: Http/ViewComposers/TodosComposer.php:42
+msgctxt "To-Dos"
+msgid "Notes & Keywords"
+msgstr "备注&关键字"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:47
+#: Http/ViewComposers/TodosComposer.php:47
+msgctxt "To-Dos"
+msgid "To-Do status"
+msgstr "状态"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:53
+#: Http/ViewComposers/TodosComposer.php:53
+msgctxt "To-Dos"
+msgid "To-Do progress"
+msgstr "任务进度"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:59
+#: Http/ViewComposers/TodosComposer.php:59
+msgctxt "To-Dos"
+msgid "Created at"
+msgstr "创建时间"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:64
+#: Http/ViewComposers/TodosComposer.php:64
+msgctxt "To-Dos"
+msgid "Operations"
+msgstr "操作"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:91
+#: Http/ViewComposers/TodosComposer.php:91
+msgctxt "To-Dos"
+msgid "Statuses"
+msgstr "状态"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:97
+#: Http/ViewComposers/TodosComposer.php:97
+msgctxt "To-Dos"
+msgid "ASIN/ID"
+msgstr "ASIN/任务ID"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:101
+#: Http/ViewComposers/TodosComposer.php:101
+msgctxt "To-Dos"
+msgid "Seller ID/storefront name"
+msgstr "荟员姓名"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:105
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:14
+#: Http/ViewComposers/TodosComposer.php:105
+msgctxt "To-Dos"
+msgid "Seller name"
+msgstr "荟员/卖家名称"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:109
+#: Http/ViewComposers/TodosComposer.php:109
+msgctxt "To-Dos"
+msgid "Freelancer name"
+msgstr "测评师"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:113
+#: Http/ViewComposers/TodosComposer.php:113
+msgctxt "To-Dos"
+msgid "Creation date"
+msgstr "创建日期"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:119
+#: ../storage/framework/messages/e619eb87860298ed20cc41d26e3cb7a1fc0ac0be.php.php:3
+#: Http/ViewComposers/TodosComposer.php:119
+msgctxt "To-Dos"
+msgid "Private"
+msgstr "荟员私有"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:122
+#: Http/ViewComposers/TodosComposer.php:122
+msgctxt "To-Dos"
+msgid "Private to-do"
+msgstr "私有任务, 仅荟员您的私有测评师可见"
+
+#: ../storage/framework/messages/1b49ffd26a0e0eee9f43b9ec6b35480665ecedb9.php.php:123
+#: Http/ViewComposers/TodosComposer.php:123
+msgctxt "To-Dos"
+msgid "Public to-do"
+msgstr "公开任务, 仅荟网的测评师可见"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:19
+#: Http/ViewComposers/ProjectsComposer.php:19
+msgctxt "Projects"
+msgid "Row, ASIN & Seller"
+msgstr "评价"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:24
+#: Http/ViewComposers/ProjectsComposer.php:24
+msgctxt "Projects"
+msgid "To-Do title & Description"
+msgstr "产品标题&中文描述"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:29
+#: Http/ViewComposers/ProjectsComposer.php:29
+msgctxt "Projects"
+msgid "Project title & Description"
+msgstr "评价标题&内容"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:39
+#: Http/ViewComposers/ProjectsComposer.php:39
+msgctxt "Projects"
+msgid "Image & Media"
+msgstr "图片/媒体"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:50
+#: Http/ViewComposers/ProjectsComposer.php:50
+msgctxt "Projects"
+msgid "Completion ID & Freelancer"
+msgstr "Amz订单号&测评师"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:55
+#: Http/ViewComposers/ProjectsComposer.php:55
+msgctxt "Projects"
+msgid "Dates"
+msgstr "日期"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:60
+#: Http/ViewComposers/ProjectsComposer.php:60
+msgctxt "Projects"
+msgid "Operations"
+msgstr "操作"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:73
+#: Http/ViewComposers/ProjectsComposer.php:73
+msgctxt "Projects"
+msgid "To-Do"
+msgstr "任务"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:87
+#: Http/ViewComposers/ProjectsComposer.php:87
+msgctxt "Projects"
+msgid "Yes, employers must write review contents"
+msgstr "荟员必须提交评价内容"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:88
+#: Http/ViewComposers/ProjectsComposer.php:88
+msgctxt "Projects"
+msgid "No, freelancers will write review contents"
+msgstr "测评师需要自己写评价内容"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:92
+#: ../storage/framework/messages/bfbda37799633ae4ccc7a464e9f9d428e37387db.php.php:416
+#: Http/Controllers/ProjectsController.php:416
+#: Http/ViewComposers/ProjectsComposer.php:92
+msgctxt "Projects"
+msgid "ASIN"
+msgstr "ASIN"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:96
+#: Http/ViewComposers/ProjectsComposer.php:96
+msgctxt "Projects"
+msgid "Seller ID/storefront name"
+msgstr "卖家 ID/店铺名称"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:100
+#: Http/ViewComposers/ProjectsComposer.php:100
+msgctxt "Projects"
+msgid "Seller name"
+msgstr "荟员姓名"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:104
+#: Http/ViewComposers/ProjectsComposer.php:104
+msgctxt "Projects"
+msgid "Freelancer name"
+msgstr "测评师"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:123
+#: Http/ViewComposers/ProjectsComposer.php:123
+msgctxt "Projects"
+msgid "Private"
+msgstr "荟员私有评价"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:126
+#: Http/ViewComposers/ProjectsComposer.php:126
+msgctxt "Projects"
+msgid "Yes, private project"
+msgstr "私有任务, 仅荟员您的私有测评师可见"
+
+#: ../storage/framework/messages/22bfdbeee5577bb299c0063c615231f657476b42.php.php:127
+#: Http/ViewComposers/ProjectsComposer.php:127
+msgctxt "Projects"
+msgid "No, public project"
+msgstr "公开任务, 仅荟网的测评师可见"
+
+#: ../storage/framework/messages/2507222a7de4e90cdbe8514005ad30159938e2fe.php.php:3
+msgctxt "Users"
+msgid "Edit"
+msgstr "编辑"
+
+#: ../storage/framework/messages/2507222a7de4e90cdbe8514005ad30159938e2fe.php.php:4
+msgctxt "Users"
+msgid "Block"
+msgstr "屏蔽该用户"
+
+#: ../storage/framework/messages/2507222a7de4e90cdbe8514005ad30159938e2fe.php.php:5
+msgctxt "Users"
+msgid "Unblock"
+msgstr "解除屏蔽"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:3
+msgctxt "Users"
+msgid "Reading file..."
+msgstr "正在读取文件..."
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:4
+msgctxt "Users"
+msgid "Row"
+msgstr "Row"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:5
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:3
+msgctxt "Users"
+msgid "Email"
+msgstr "Email"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:6
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:8
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:36
+#: Http/ViewComposers/UsersComposer.php:36
+msgctxt "Users"
+msgid "Name"
+msgstr "姓名"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:7
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:12
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:41
+#: Http/ViewComposers/UsersComposer.php:41
+msgctxt "Users"
+msgid "QQ"
+msgstr "QQ号"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:8
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:13
+msgctxt "Users"
+msgid "Wechat ID"
+msgstr "微信号ID"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:9
+msgctxt "Users"
+msgid "Phone"
+msgstr "电话号码"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:10
+msgctxt "Users"
+msgid "Company name"
+msgstr "公司名称"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:11
+msgctxt "Users"
+msgid "Company URL"
+msgstr "公司或个人网站地址"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:12
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:14
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:51
+#: Http/ViewComposers/UsersComposer.php:51
+msgctxt "Users"
+msgid "Alipay ID"
+msgstr "支付宝ID"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:13
+msgctxt "Users"
+msgid "Notes"
+msgstr "备注"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:14
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:18
+msgctxt "Users"
+msgid "Register date"
+msgstr "入荟日期"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:15
+msgctxt "Users"
+msgid "This user already exists"
+msgstr "该用户已存在"
+
+#: ../storage/framework/messages/2bab70b508d8f7821f163d12afd3551f84039e40.php.php:16
+msgctxt "Users"
+msgid "No users have been found in this file"
+msgstr "在这个文件中没有找到用户"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:4
+msgctxt "Users"
+msgid "Password"
+msgstr "密码"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:5
+msgctxt "Users"
+msgid "Password (confirmation)"
+msgstr "确认密码"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:6
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:56
+#: Http/ViewComposers/UsersComposer.php:56
+msgctxt "Users"
+msgid "Role"
+msgstr "用户角色"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:7
+msgctxt "Users"
+msgid "Creator user (for private freelancers)"
+msgstr "创建荟员私有测评师 (仅能看见并完成您创建的私有任务)"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:9
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:46
+#: Http/ViewComposers/UsersComposer.php:46
+msgctxt "Users"
+msgid "Cell phone number"
+msgstr "手机号码"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:10
+msgctxt "Users"
+msgid "Timezone"
+msgstr "时区"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:11
+msgctxt "Users"
+msgid "Language"
+msgstr "语言"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:15
+msgctxt "Users"
+msgid "Company"
+msgstr "公司名称"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:16
+msgctxt "Users"
+msgid "Website URL"
+msgstr "公司或个人网站地址"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:17
+msgctxt "Users"
+msgid "The URL must start with http or https; example: http://example.com"
+msgstr "该网址必须以http或https开头;例如：http://example.com"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:19
+#: ../storage/framework/messages/feb13ad992e279fdb439e926b0599dc41a9db1a4.php.php:3
+msgctxt "Users"
+msgid "Create user"
+msgstr "创建测评师"
+
+#: ../storage/framework/messages/2d35293e2b5b79db99ae4b0a7e4f4b7f68431175.php.php:20
+msgctxt "Users"
+msgid "Edit user"
+msgstr "编辑"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:6
+msgctxt "Login"
+msgid "Login"
+msgstr "登录"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:29
+msgctxt "Login"
+msgid "Welcome to X-project"
+msgstr "欢迎访问爱评网itui.market"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:39
+msgctxt "Login"
+msgid "Member Login"
+msgstr "荟员登录"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:61
+msgctxt "Login"
+msgid "Email address"
+msgstr "Email"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:68
+msgctxt "Login"
+msgid "Please contact"
+msgstr "请联系"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:70
+msgctxt "Login"
+msgid "Huistore support team"
+msgstr "荟网中国办公室"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:83
+msgctxt "Login"
+msgid "Password"
+msgstr "密码"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:89
+msgctxt "Login"
+msgid "Forgot password?"
+msgstr "忘记密码？"
+
+#: ../storage/framework/messages/31b63b67c031fc63ba1b6bf5cd5558facb15d82f.php.php:92
+msgctxt "Login"
+msgid "Admin Login"
+msgstr "管理员登录"
+
+#: ../storage/framework/messages/39aa42784a2a0a83114689bd51bffbdda85b15ef.php.php:60
+#: Entities/User.php:60
+msgctxt "User"
+msgid "Administrator"
+msgstr "高级管理员"
+
+#: ../storage/framework/messages/39aa42784a2a0a83114689bd51bffbdda85b15ef.php.php:61
+#: Entities/User.php:61
+msgctxt "User"
+msgid "Manager"
+msgstr "荟网管理员"
+
+#: ../storage/framework/messages/39aa42784a2a0a83114689bd51bffbdda85b15ef.php.php:62
+#: Entities/User.php:62
+msgctxt "User"
+msgid "Freelancer"
+msgstr "测评师"
+
+#: ../storage/framework/messages/39aa42784a2a0a83114689bd51bffbdda85b15ef.php.php:63
+#: Entities/User.php:63
+msgctxt "User"
+msgid "Employer"
+msgstr "荟员"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:3
+msgctxt "To-Dos"
+msgid "Payments"
+msgstr "Payments"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:4
+msgctxt "To-Dos"
+msgid "Date"
+msgstr "日期"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:5
+msgctxt "To-Dos"
+msgid "Code"
+msgstr "Code"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:6
+msgctxt "To-Dos"
+msgid "Amount"
+msgstr "应付金额"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:7
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:9
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:11
+#, php-format
+msgctxt "To-Dos"
+msgid "RMB %s"
+msgstr "RMB ¥%s"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:8
+msgctxt "To-Dos"
+msgid "Amount due"
+msgstr "待收金额"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:10
+msgctxt "To-Dos"
+msgid "Amount paid"
+msgstr "实付金额"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:12
+msgctxt "To-Dos"
+msgid "Status"
+msgstr "状态"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:13
+msgctxt "To-Dos"
+msgid "Buyer email"
+msgstr "Buyer email"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:14
+msgctxt "To-Dos"
+msgid "Buyer ID"
+msgstr "Buyer ID"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:15
+msgctxt "To-Dos"
+msgid "Notify ID"
+msgstr "Notify ID"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:16
+msgctxt "To-Dos"
+msgid "Response"
+msgstr "Response"
+
+#: ../storage/framework/messages/487506e16417f69314a06c20896531e6ba1f2791.php.php:17
+msgctxt "To-Dos"
+msgid "Error"
+msgstr "仅显示错误"
+
+#: ../storage/framework/messages/4b487adca94f39355cf6c91dc160a0a07ecc19b9.php.php:3
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:6
+msgctxt "Projects"
+msgid "Submit completion ID"
+msgstr "提交Amz订单号"
+
+#: ../storage/framework/messages/4b487adca94f39355cf6c91dc160a0a07ecc19b9.php.php:4
+msgctxt "Projects"
+msgid "Completion ID"
+msgstr "Amz订单号"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:44
+#: functions.php:44
+#, php-format
+msgctxt "Date"
+msgid "%u days ago"
+msgstr "%u 天以前"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:46
+#: functions.php:46
+msgctxt "Date"
+msgid "One day ago"
+msgstr "昨天"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:48
+#: functions.php:48
+#, php-format
+msgctxt "Date"
+msgid "%u hours ago"
+msgstr "%u 小时以前"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:50
+#: functions.php:50
+msgctxt "Date"
+msgid "One hour ago"
+msgstr "1小时前"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:52
+#: functions.php:52
+#, php-format
+msgctxt "Date"
+msgid "%u minutes ago"
+msgstr "%u 分钟以前"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:54
+#: functions.php:54
+msgctxt "Date"
+msgid "One minute ago"
+msgstr "1分钟前"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:56
+#: functions.php:56
+#, php-format
+msgctxt "Date"
+msgid "%u seconds ago"
+msgstr "%u 秒以前"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:58
+#: functions.php:58
+msgctxt "Date"
+msgid "One second ago"
+msgstr "1秒前"
+
+#: ../storage/framework/messages/50d471c120b4c3363846b8583a2fa43f1ac791ed.php.php:60
+#: functions.php:60
+msgctxt "Date"
+msgid "Now"
+msgstr "现在"
+
+#: ../storage/framework/messages/511b129cbf76969c5b448e03e82c0fc637c89d76.php.php:3
+#: ../storage/framework/messages/6915b1e94add1d9ff167c60bd8595a261d7da2d1.php.php:3
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:13
+msgctxt "Projects"
+msgid "Delete"
+msgstr "删除"
+
+#: ../storage/framework/messages/511b129cbf76969c5b448e03e82c0fc637c89d76.php.php:4
+msgctxt "Projects"
+msgid "Add image"
+msgstr "添加图片"
+
+#: ../storage/framework/messages/57b8e2f40183b228258ee33a22a994d06df0e666.php.php:3
+msgctxt "Popup"
+msgid "Close"
+msgstr "关闭"
+
+#: ../storage/framework/messages/57b8e2f40183b228258ee33a22a994d06df0e666.php.php:4
+msgctxt "Popup"
+msgid "Save"
+msgstr "保存"
+
+#: ../storage/framework/messages/57b8e2f40183b228258ee33a22a994d06df0e666.php.php:5
+msgctxt "Popup"
+msgid "Save error"
+msgstr "保存出错"
+
+#: ../storage/framework/messages/5918f26ef62f8c36686e734ee08a3d8a22151b78.php.php:3
+msgctxt "Table"
+msgid "Show"
+msgstr "显示"
+
+#: ../storage/framework/messages/5918f26ef62f8c36686e734ee08a3d8a22151b78.php.php:4
+msgctxt "Table"
+msgid "per page"
+msgstr "每页"
+
+#: ../storage/framework/messages/5c0b12be5f4e2aea3d11e4e84a7fc75705ffd2da.php.php:17
+#: Http/ViewComposers/ProfileComposer.php:17
+msgctxt "Profile"
+msgid "Chinese"
+msgstr "简体中文"
+
+#: ../storage/framework/messages/5c0b12be5f4e2aea3d11e4e84a7fc75705ffd2da.php.php:18
+#: Http/ViewComposers/ProfileComposer.php:18
+msgctxt "Profile"
+msgid "English"
+msgstr "英语"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:3
+msgctxt "File input"
+msgid "Select file"
+msgstr "选择文件"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:4
+msgctxt "File input"
+msgid "Change"
+msgstr "修改"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:5
+msgctxt "File input"
+msgid "Reset"
+msgstr "重置"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:6
+msgctxt "File input"
+msgid "Retry"
+msgstr "重试"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:7
+msgctxt "File input"
+msgid "Upload"
+msgstr "上传"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:8
+msgctxt "File input"
+msgid "An error has occurred while trying to upload the file"
+msgstr "尝试上传文件时发生错误"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:9
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:10
+#, php-format
+msgctxt "File input"
+msgid "File %s uploaded"
+msgstr "文件 %s 已上传"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:11
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:14
+msgctxt "File input"
+msgid "Download"
+msgstr "下载"
+
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:12
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:13
+#: ../storage/framework/messages/5f30ca25cf0ed7d134f2c2eae278fbae81bdec65.php.php:15
+msgctxt "File input"
+msgid "Clear"
+msgstr "清除"
+
+#: ../storage/framework/messages/67f9c7b768ae30ed683f42b4000c89126b6854e6.php.php:11
+msgctxt "Master"
+msgid " - X-project"
+msgstr " - 爱评网itui.market"
+
+#: ../storage/framework/messages/68ed248883ccbfbae63c2f8a117b27c85100348b.php.php:58
+#: Entities/Todo.php:58
+msgctxt "To-Do"
+msgid "Unassigned"
+msgstr "无人接收"
+
+#: ../storage/framework/messages/68ed248883ccbfbae63c2f8a117b27c85100348b.php.php:59
+#: Entities/Todo.php:59
+msgctxt "To-Do"
+msgid "Accepted"
+msgstr "进行中"
+
+#: ../storage/framework/messages/68ed248883ccbfbae63c2f8a117b27c85100348b.php.php:60
+#: Entities/Todo.php:60
+msgctxt "To-Do"
+msgid "Completed"
+msgstr "已完成"
+
+#: ../storage/framework/messages/68ed248883ccbfbae63c2f8a117b27c85100348b.php.php:61
+#: Entities/Todo.php:61
+msgctxt "To-Do"
+msgid "Deleted"
+msgstr "已删除"
+
+#: ../storage/framework/messages/68ed248883ccbfbae63c2f8a117b27c85100348b.php.php:62
+#: Entities/Todo.php:62
+msgctxt "To-Do"
+msgid "Unpaid"
+msgstr "未支付"
+
+#: ../storage/framework/messages/68ed248883ccbfbae63c2f8a117b27c85100348b.php.php:63
+#: Entities/Todo.php:63
+msgctxt "To-Do"
+msgid "Unconfirmed"
+msgstr "等待管理员审核"
+
+#: ../storage/framework/messages/6915b1e94add1d9ff167c60bd8595a261d7da2d1.php.php:4
+msgctxt "Projects"
+msgid "Add media"
+msgstr "添加视频/媒体"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:3
+msgctxt "Profile"
+msgid "Name"
+msgstr "姓名"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:4
+msgctxt "Profile"
+msgid "Email"
+msgstr "Email"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:5
+msgctxt "Profile"
+msgid "Password"
+msgstr "密码"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:6
+msgctxt "Profile"
+msgid "Password (confirmation)"
+msgstr "确认密码"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:7
+msgctxt "Profile"
+msgid "QQ"
+msgstr "QQ号"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:8
+msgctxt "Profile"
+msgid "Cell phone number"
+msgstr "手机号码"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:9
+msgctxt "Profile"
+msgid "Timezone"
+msgstr "时区"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:10
+msgctxt "Profile"
+msgid "Language"
+msgstr "语言"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:11
+msgctxt "Profile"
+msgid "Wechat ID"
+msgstr "微信号ID"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:12
+msgctxt "Profile"
+msgid "Alipay ID"
+msgstr "支付宝ID"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:13
+msgctxt "Profile"
+msgid "Company"
+msgstr "公司名称"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:14
+msgctxt "Profile"
+msgid "Website URL"
+msgstr "公司或个人网站地址"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:15
+msgctxt "Profile"
+msgid "The URL must start with http or https; example: http://example.com"
+msgstr "该网址必须以http或https开头;例如：http://example.com"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:16
+msgctxt "Profile"
+msgid "Profile picture"
+msgstr "个人资料图片"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:17
+msgctxt "Profile"
+msgid "Storefronts"
+msgstr "卖家账号"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:18
+msgctxt "Profile"
+msgid "Save"
+msgstr "保存"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:19
+msgctxt "Profile"
+msgid "Saving..."
+msgstr "正在保存..."
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:20
+msgctxt "Profile"
+msgid "Profile saved"
+msgstr "个人资料已保存"
+
+#: ../storage/framework/messages/706b96bc8dae6b758c829c811141a5da8cecf35f.php.php:21
+msgctxt "Profile"
+msgid "Save error"
+msgstr "保存出错"
+
+#: ../storage/framework/messages/71060e41a62281834955c41168d4bd36ecaee93d.php.php:26
+#: Http/ViewComposers/LogsComposer.php:26
+msgctxt "Log Viewer"
+msgid "File"
+msgstr "文件"
+
+#: ../storage/framework/messages/71060e41a62281834955c41168d4bd36ecaee93d.php.php:32
+#: Http/ViewComposers/LogsComposer.php:32
+msgctxt "Log Viewer"
+msgid "View"
+msgstr "查看"
+
+#: ../storage/framework/messages/71060e41a62281834955c41168d4bd36ecaee93d.php.php:35
+#: Http/ViewComposers/LogsComposer.php:35
+msgctxt "Log Viewer"
+msgid "Last 20000 bytes"
+msgstr "最后20000字节"
+
+#: ../storage/framework/messages/71060e41a62281834955c41168d4bd36ecaee93d.php.php:36
+#: Http/ViewComposers/LogsComposer.php:36
+msgctxt "Log Viewer"
+msgid "Errors only"
+msgstr "仅显示错误"
+
+#: ../storage/framework/messages/71060e41a62281834955c41168d4bd36ecaee93d.php.php:37
+#: Http/ViewComposers/LogsComposer.php:37
+msgctxt "Log Viewer"
+msgid "Info only"
+msgstr "仅显示Info"
+
+#: ../storage/framework/messages/71060e41a62281834955c41168d4bd36ecaee93d.php.php:38
+#: Http/ViewComposers/LogsComposer.php:38
+msgctxt "Log Viewer"
+msgid "All"
+msgstr "全部"
+
+#: ../storage/framework/messages/71060e41a62281834955c41168d4bd36ecaee93d.php.php:39
+#: Http/ViewComposers/LogsComposer.php:39
+msgctxt "Log Viewer"
+msgid "Search..."
+msgstr "搜索..."
+
+#: ../storage/framework/messages/71060e41a62281834955c41168d4bd36ecaee93d.php.php:44
+#: Http/ViewComposers/LogsComposer.php:44
+msgctxt "Log Viewer"
+msgid "Search text"
+msgstr "搜索关键词"
+
+#: ../storage/framework/messages/739163d76b1705f943771189f540194fedb80a9c.php.php:3
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:119
+#: Http/ViewComposers/StatisticsComposer.php:119
+msgctxt "Statistics"
+msgid "Private"
+msgstr "荟员私有评价"
+
+#: ../storage/framework/messages/739163d76b1705f943771189f540194fedb80a9c.php.php:4
+#, php-format
+msgctxt "Statistics"
+msgid "Created at %s"
+msgstr "创建时间: %s"
+
+#: ../storage/framework/messages/739163d76b1705f943771189f540194fedb80a9c.php.php:5
+#, php-format
+msgctxt "Statistics"
+msgid "Completion ID submitted at %s"
+msgstr "Amz订单号提交时间: %s"
+
+#: ../storage/framework/messages/739163d76b1705f943771189f540194fedb80a9c.php.php:6
+#, php-format
+msgctxt "Statistics"
+msgid "Completed at %s"
+msgstr "评价完成时间: %s"
+
+#: ../storage/framework/messages/76259977abe4758718c6c6ef98ac3c673e17d43a.php.php:1
+#: ../storage/framework/messages/dbdbe46cf3b9bdc98946b79acdd5eef767cd25df.php.php:84
+msgctxt "Menu option"
+msgid "Users"
+msgstr "用户管理"
+
+#: ../storage/framework/messages/76259977abe4758718c6c6ef98ac3c673e17d43a.php.php:4
+#: ../storage/framework/messages/76259977abe4758718c6c6ef98ac3c673e17d43a.php.php:8
+msgctxt "Users"
+msgid "Users"
+msgstr "用户"
+
+#: ../storage/framework/messages/84f510452db445b330776031352bd99ab8d2c640.php.php:3
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:7
+msgctxt "Projects"
+msgid "Submit completion URL"
+msgstr "提交评价链接"
+
+#: ../storage/framework/messages/84f510452db445b330776031352bd99ab8d2c640.php.php:4
+msgctxt "Projects"
+msgid "Completion URL"
+msgstr "评价链接"
+
+#: ../storage/framework/messages/8aad7c9f5a332e5c4938393f6fcf355cf4f48480.php.php:3
+msgctxt "Table"
+msgid "No items found"
+msgstr "未找到"
+
+#: ../storage/framework/messages/8aad7c9f5a332e5c4938393f6fcf355cf4f48480.php.php:4
+msgctxt "Table"
+msgid "Loading items..."
+msgstr "正在加载..."
+
+#: ../storage/framework/messages/8aad7c9f5a332e5c4938393f6fcf355cf4f48480.php.php:5
+#, php-format
+msgctxt "Table"
+msgid "%s items found"
+msgstr "已找到 %s 个"
+
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:31
+#: Http/ViewComposers/UsersComposer.php:31
+msgctxt "Users"
+msgid "Email address"
+msgstr "Email"
+
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:61
+#: Http/ViewComposers/UsersComposer.php:61
+msgctxt "Users"
+msgid "Created at"
+msgstr "创建时间"
+
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:66
+#: Http/ViewComposers/UsersComposer.php:66
+msgctxt "Users"
+msgid "Operations"
+msgstr "操作"
+
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:73
+#: Http/ViewComposers/UsersComposer.php:73
+msgctxt "Users"
+msgid "Email or name"
+msgstr "Email或姓名"
+
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:85
+#: Http/ViewComposers/UsersComposer.php:85
+msgctxt "Users"
+msgid "Chinese"
+msgstr "简体中文"
+
+#: ../storage/framework/messages/8ea18edbb621e48e94d307ea1eb4640aa2540ad3.php.php:86
+#: Http/ViewComposers/UsersComposer.php:86
+msgctxt "Users"
+msgid "English"
+msgstr "英语"
+
+#: ../storage/framework/messages/99ec430daaff1bede11269f6590ba4abb7bab4b8.php.php:6
+#: ../storage/framework/messages/99ec430daaff1bede11269f6590ba4abb7bab4b8.php.php:70
+msgctxt "Reset password"
+msgid "Reset password"
+msgstr "密码重置"
+
+#: ../storage/framework/messages/99ec430daaff1bede11269f6590ba4abb7bab4b8.php.php:29
+msgctxt "Reset password"
+msgid "Welcome to X-project"
+msgstr "欢迎访问爱评网itui.market"
+
+#: ../storage/framework/messages/99ec430daaff1bede11269f6590ba4abb7bab4b8.php.php:52
+msgctxt "Reset password"
+msgid "New password"
+msgstr "密码"
+
+#: ../storage/framework/messages/99ec430daaff1bede11269f6590ba4abb7bab4b8.php.php:56
+msgctxt "Reset password"
+msgid "The password must be between 6 and 16 characters long"
+msgstr "密码长度必须在6到16个字符之间"
+
+#: ../storage/framework/messages/99ec430daaff1bede11269f6590ba4abb7bab4b8.php.php:65
+msgctxt "Reset password"
+msgid "New password (confirmation)"
+msgstr "确认密码"
+
+#: ../storage/framework/messages/9b0495aa4805f8c3ea551b25200654bfc7d30cfd.php.php:65
+#: Entities/Project.php:65
+msgctxt "Project"
+msgid "Unassigned"
+msgstr "无人接收"
+
+#: ../storage/framework/messages/9b0495aa4805f8c3ea551b25200654bfc7d30cfd.php.php:66
+#: Entities/Project.php:66
+msgctxt "Project"
+msgid "Accepted"
+msgstr "已接收(等待Amz订单号)"
+
+#: ../storage/framework/messages/9b0495aa4805f8c3ea551b25200654bfc7d30cfd.php.php:67
+#: Entities/Project.php:67
+msgctxt "Project"
+msgid "Waiting for description"
+msgstr "等待荟员提交评价内容"
+
+#: ../storage/framework/messages/9b0495aa4805f8c3ea551b25200654bfc7d30cfd.php.php:68
+#: Entities/Project.php:68
+msgctxt "Project"
+msgid "Waiting for URL"
+msgstr "等待测评师提交评价链接"
+
+#: ../storage/framework/messages/9b0495aa4805f8c3ea551b25200654bfc7d30cfd.php.php:69
+#: Entities/Project.php:69
+msgctxt "Project"
+msgid "Waiting for confirmation"
+msgstr "等待管理员确认"
+
+#: ../storage/framework/messages/9b0495aa4805f8c3ea551b25200654bfc7d30cfd.php.php:70
+#: Entities/Project.php:70
+msgctxt "Project"
+msgid "Completed"
+msgstr "已完成"
+
+#: ../storage/framework/messages/9b0495aa4805f8c3ea551b25200654bfc7d30cfd.php.php:71
+#: Entities/Project.php:71
+msgctxt "Project"
+msgid "Failed"
+msgstr "评价失败"
+
+#: ../storage/framework/messages/9b0495aa4805f8c3ea551b25200654bfc7d30cfd.php.php:72
+#: Entities/Project.php:72
+msgctxt "Project"
+msgid "Deleted"
+msgstr "已删除"
+
+#: ../storage/framework/messages/9cd07f467003450cbca665cf5a73afeea7a4ccf0.php.php:3
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:9
+msgctxt "Projects"
+msgid "Submit description"
+msgstr "提交评价内容"
+
+#: ../storage/framework/messages/a698cf3d3f7f3d85fc44fd1aab67657e541a35c5.php.php:3
+msgctxt "Forgot password email"
+msgid ""
+"You are receiving this email because we received a password reset request "
+"for your account."
+msgstr "您收到这封邮件，因为我们得到了您希望重置密码的请求."
+
+#: ../storage/framework/messages/a698cf3d3f7f3d85fc44fd1aab67657e541a35c5.php.php:4
+msgctxt "Forgot password email"
+msgid "Reset password"
+msgstr "密码重置"
+
+#: ../storage/framework/messages/a698cf3d3f7f3d85fc44fd1aab67657e541a35c5.php.php:5
+msgctxt "Forgot password email"
+msgid "If you did not request a password reset, no further action is required."
+msgstr "如果您不希望重置密码，您不需要做更多的操作."
+
+#: ../storage/framework/messages/a85add711d01e5caa76793cacfca077858f8e701.php.php:3
+msgctxt "Filter"
+msgid "Filter"
+msgstr "筛选"
+
+#: ../storage/framework/messages/b11c366cc103e9934ddf8e1e4b9083f04d343576.php.php:1
+#: ../storage/framework/messages/dbdbe46cf3b9bdc98946b79acdd5eef767cd25df.php.php:59
+msgctxt "Menu option"
+msgid "Dashboard"
+msgstr "控制面板"
+
+#: ../storage/framework/messages/b16773b9bb6c8fd88594f49a5c01d5b29b269ebf.php.php:1
+#: ../storage/framework/messages/dbdbe46cf3b9bdc98946b79acdd5eef767cd25df.php.php:38
+msgctxt "Menu option"
+msgid "Profile"
+msgstr "我的个人资料"
+
+#: ../storage/framework/messages/b16773b9bb6c8fd88594f49a5c01d5b29b269ebf.php.php:4
+#: ../storage/framework/messages/b16773b9bb6c8fd88594f49a5c01d5b29b269ebf.php.php:8
+msgctxt "Profile"
+msgid "Profile"
+msgstr "个人资料"
+
+#: ../storage/framework/messages/b3bd6050db1510a9575fdaebf80fc70bbaa87107.php.php:1
+#: ../storage/framework/messages/dbdbe46cf3b9bdc98946b79acdd5eef767cd25df.php.php:77
+msgctxt "Menu option"
+msgid "Statistics"
+msgstr "报表统计"
+
+#: ../storage/framework/messages/bdfba2cd5cd91f43fd2a5be5f10bd1acc3c574c7.php.php:138
+#: Services/PaymentManager/PaymentManager.php:138
+msgctxt "Payment manager"
+msgid "Huistore payment cancelled"
+msgstr "官网余额付款已取消"
+
+#: ../storage/framework/messages/bdfba2cd5cd91f43fd2a5be5f10bd1acc3c574c7.php.php:195
+#: Services/PaymentManager/PaymentManager.php:195
+#, php-format
+msgctxt "Payment manager"
+msgid "Internal error: %s"
+msgstr "出现错误: %s"
+
+#: ../storage/framework/messages/bfbda37799633ae4ccc7a464e9f9d428e37387db.php.php:400
+#: Http/Controllers/ProjectsController.php:400
+msgctxt "Projects"
+msgid "Store name"
+msgstr "Amazon店铺名称"
+
+#: ../storage/framework/messages/bfbda37799633ae4ccc7a464e9f9d428e37387db.php.php:408
+#: Http/Controllers/ProjectsController.php:408
+msgctxt "Projects"
+msgid "Seller ID"
+msgstr "卖家ID"
+
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:3
+msgctxt "Projects"
+msgid "View details"
+msgstr "查看详情"
+
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:4
+msgctxt "Projects"
+msgid "Accept"
+msgstr "接收评测"
+
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:5
+msgctxt "Projects"
+msgid "Daily limit reached"
+msgstr "已超过每日可接收的评测限额"
+
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:8
+msgctxt "Projects"
+msgid "Edit"
+msgstr "编辑评测"
+
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:10
+msgctxt "Projects"
+msgid "Confirm"
+msgstr "确认评测完成"
+
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:11
+msgctxt "Projects"
+msgid "Fail"
+msgstr "标记评测为失败"
+
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:12
+msgctxt "Projects"
+msgid "Cancel"
+msgstr "取消"
+
+#: ../storage/framework/messages/c1624ea60869b135d08b236d05c62e2f58c53f4b.php.php:14
+msgctxt "Projects"
+msgid "Restore"
+msgstr "恢复该评价"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:3
+msgctxt "To-Dos"
+msgid "View projects"
+msgstr "查看评价列表"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:4
+msgctxt "To-Dos"
+msgid "Edit"
+msgstr "编辑"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:5
+msgctxt "To-Dos"
+msgid "Clone"
+msgstr "克隆"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:6
+msgctxt "To-Dos"
+msgid "View payments"
+msgstr "查看支付"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:7
+msgctxt "To-Dos"
+msgid "Complete"
+msgstr "标记为完成"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:8
+msgctxt "To-Dos"
+msgid "Reopen"
+msgstr "重启任务"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:9
+msgctxt "To-Dos"
+msgid "Confirm"
+msgstr "批准荟员任务"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:10
+msgctxt "To-Dos"
+msgid "Pay again"
+msgstr "再次支付"
+
+#: ../storage/framework/messages/c77c89d603f0ec3c04845ff8494d9431a4893fef.php.php:11
+msgctxt "To-Dos"
+msgid "Delete"
+msgstr "删除"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:12
+#: Services/MarketplaceInformation/MarketplaceInformation.php:12
+msgctxt "Marketplace information"
+msgid "Canada"
+msgstr "加拿大"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:13
+#: Services/MarketplaceInformation/MarketplaceInformation.php:13
+msgctxt "Marketplace information"
+msgid "USA"
+msgstr "美国"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:14
+#: Services/MarketplaceInformation/MarketplaceInformation.php:14
+msgctxt "Marketplace information"
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:15
+#: Services/MarketplaceInformation/MarketplaceInformation.php:15
+msgctxt "Marketplace information"
+msgid "Germany"
+msgstr "德国"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:16
+#: Services/MarketplaceInformation/MarketplaceInformation.php:16
+msgctxt "Marketplace information"
+msgid "Spain"
+msgstr "西班牙"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:17
+#: Services/MarketplaceInformation/MarketplaceInformation.php:17
+msgctxt "Marketplace information"
+msgid "France"
+msgstr "法国"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:18
+#: Services/MarketplaceInformation/MarketplaceInformation.php:18
+msgctxt "Marketplace information"
+msgid "Italy"
+msgstr "意大利"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:19
+#: Services/MarketplaceInformation/MarketplaceInformation.php:19
+msgctxt "Marketplace information"
+msgid "UK"
+msgstr "英国"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:20
+#: Services/MarketplaceInformation/MarketplaceInformation.php:20
+msgctxt "Marketplace information"
+msgid "Japan"
+msgstr "日本"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:21
+#: Services/MarketplaceInformation/MarketplaceInformation.php:21
+msgctxt "Marketplace information"
+msgid "India"
+msgstr "印度"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:22
+#: Services/MarketplaceInformation/MarketplaceInformation.php:22
+msgctxt "Marketplace information"
+msgid "China"
+msgstr "中国"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:405
+#: Services/MarketplaceInformation/MarketplaceInformation.php:405
+msgctxt "Marketplace information"
+msgid "Ottawa"
+msgstr "渥太华"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:407
+#: Services/MarketplaceInformation/MarketplaceInformation.php:407
+msgctxt "Marketplace information"
+msgid "Washington, D.C."
+msgstr "华盛顿."
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:409
+#: Services/MarketplaceInformation/MarketplaceInformation.php:409
+msgctxt "Marketplace information"
+msgid "Mexico City"
+msgstr "墨西哥城"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:411
+#: Services/MarketplaceInformation/MarketplaceInformation.php:411
+msgctxt "Marketplace information"
+msgid "Berlin"
+msgstr "柏林"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:413
+#: Services/MarketplaceInformation/MarketplaceInformation.php:413
+msgctxt "Marketplace information"
+msgid "Madrid"
+msgstr "马德里"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:415
+#: Services/MarketplaceInformation/MarketplaceInformation.php:415
+msgctxt "Marketplace information"
+msgid "Paris"
+msgstr "巴黎"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:417
+#: Services/MarketplaceInformation/MarketplaceInformation.php:417
+msgctxt "Marketplace information"
+msgid "Rome"
+msgstr "罗马"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:419
+#: Services/MarketplaceInformation/MarketplaceInformation.php:419
+msgctxt "Marketplace information"
+msgid "London"
+msgstr "伦敦"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:421
+#: Services/MarketplaceInformation/MarketplaceInformation.php:421
+msgctxt "Marketplace information"
+msgid "New Delhi"
+msgstr "新德里"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:423
+#: Services/MarketplaceInformation/MarketplaceInformation.php:423
+msgctxt "Marketplace information"
+msgid "Tokyo"
+msgstr "东京"
+
+#: ../storage/framework/messages/cb9da4378e9bbf1e63e829e788cff987b4e8f651.php.php:425
+#: Services/MarketplaceInformation/MarketplaceInformation.php:425
+msgctxt "Marketplace information"
+msgid "Beijing"
+msgstr "北京"
+
+#: ../storage/framework/messages/d893f926741d5df826b465098d643ef8db6b40e5.php.php:220
+#: Http/Controllers/UsersController.php:220
+#, php-format
+msgctxt "Users"
+msgid "%u users have been imported"
+msgstr "%u 个用户已被导入"
+
+#: ../storage/framework/messages/d893f926741d5df826b465098d643ef8db6b40e5.php.php:222
+#: Http/Controllers/UsersController.php:222
+#, php-format
+msgctxt "Users"
+msgid "%u users contained errors"
+msgstr "%u 个用户包含错误数据"
+
+#: ../storage/framework/messages/d893f926741d5df826b465098d643ef8db6b40e5.php.php:224
+#: Http/Controllers/UsersController.php:224
+#, php-format
+msgctxt "Users"
+msgid "%u users already existed"
+msgstr "%u 个用户已经存在"
+
+#: ../storage/framework/messages/db6c0e066cf4366c7b5519a63d7bcc1b54bc76e6.php.php:75
+#: Http/Controllers/ProfileController.php:75
+msgctxt "Profile"
+msgid "This is not a valid storefront URL."
+msgstr "这不是一个有效的Amazon店铺链接."
+
+#: ../storage/framework/messages/db75cbfdb87232efe81d7d4f6f884a8772bd1d3c.php.php:3
+msgctxt "Projects"
+msgid "View similar projects"
+msgstr "查看相似评价"
+
+#: ../storage/framework/messages/db75cbfdb87232efe81d7d4f6f884a8772bd1d3c.php.php:4
+#, php-format
+msgctxt "Projects"
+msgid "Projects with the same %s: \"%s\""
+msgstr "您之前做过的评价: 相同的%s: \"%s\""
+
+#: ../storage/framework/messages/dbdbe46cf3b9bdc98946b79acdd5eef767cd25df.php.php:46
+msgctxt "Menu option"
+msgid "Logout"
+msgstr "登出"
+
+#: ../storage/framework/messages/dbdbe46cf3b9bdc98946b79acdd5eef767cd25df.php.php:65
+#: ../storage/framework/messages/e9b78e406a121a40d260b0a5be5590dcc5136ffe.php.php:1
+msgctxt "Menu option"
+msgid "To-Dos"
+msgstr "任务管理"
+
+#: ../storage/framework/messages/dce873ea2a8796461de2eaf106db41e941eb13de.php.php:55
+#: ../storage/framework/messages/dce873ea2a8796461de2eaf106db41e941eb13de.php.php:56
+#: Services/ProjectManager/ProjectManager.php:55
+#: Services/ProjectManager/ProjectManager.php:56
+msgctxt "Project manager"
+msgid "Freelancer's responsibility"
+msgstr "测评师自己写评价"
+
+#: ../storage/framework/messages/deffe25056364dfd9ccda3d4b7772c0db54d9e3e.php.php:3
+msgctxt "Statistics"
+msgid "Download"
+msgstr "导出为Excel (不分页)"
+
+#: ../storage/framework/messages/deffe25056364dfd9ccda3d4b7772c0db54d9e3e.php.php:4
+msgctxt "Statistics"
+msgid "Download with separate sheets"
+msgstr "导出为Excel (按测评师分页)"
+
+#: ../storage/framework/messages/e04c54f4aa99298d6141fae84f4160284df30913.php.php:3
+msgctxt "Users"
+msgid "Import"
+msgstr "导入"
+
+#: ../storage/framework/messages/e04c54f4aa99298d6141fae84f4160284df30913.php.php:4
+#: ../storage/framework/messages/feb13ad992e279fdb439e926b0599dc41a9db1a4.php.php:4
+msgctxt "Users"
+msgid "Import users"
+msgstr "导入用户"
+
+#: ../storage/framework/messages/e04c54f4aa99298d6141fae84f4160284df30913.php.php:5
+msgctxt "Users"
+msgid "File"
+msgstr "文件"
+
+#: ../storage/framework/messages/e04c54f4aa99298d6141fae84f4160284df30913.php.php:6
+msgctxt "Users"
+msgid "Allowed formats: Excel 2007 (xlsx), Excel 97-2003 (xls), CSV"
+msgstr "允许的文件格式：Excel 2007(xlsx), Excel 97-2003(xls), CSV"
+
+#: ../storage/framework/messages/e04c54f4aa99298d6141fae84f4160284df30913.php.php:7
+msgctxt "Users"
+msgid "Download template"
+msgstr "下载用户文件模板"
+
+#: ../storage/framework/messages/e08778c082ad508a2317f1828ed4fca722e58c4b.php.php:132
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:5
+#: Http/Controllers/TodosController.php:132
+msgctxt "To-Dos"
+msgid "FBA"
+msgstr "FBA"
+
+#: ../storage/framework/messages/e08778c082ad508a2317f1828ed4fca722e58c4b.php.php:132
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:6
+#: Http/Controllers/TodosController.php:132
+msgctxt "To-Dos"
+msgid "FBM"
+msgstr "FBM(自发货)"
+
+#: ../storage/framework/messages/e08778c082ad508a2317f1828ed4fca722e58c4b.php.php:466
+#: Http/Controllers/TodosController.php:466
+msgctxt "To-Dos"
+msgid "This URL does not belong to your storefronts."
+msgstr "此链接和您的卖家店铺不匹配."
+
+#: ../storage/framework/messages/e08778c082ad508a2317f1828ed4fca722e58c4b.php.php:488
+#: Http/Controllers/TodosController.php:488
+msgctxt "To-Dos"
+msgid "This name does not belong to your storefronts."
+msgstr "此名称和您的卖家店铺不匹配."
+
+#: ../storage/framework/messages/e08778c082ad508a2317f1828ed4fca722e58c4b.php.php:529
+#: Http/Controllers/TodosController.php:529
+msgctxt "To-Dos"
+msgid "This is not a valid URL for the product ASIN."
+msgstr "链接和产品ASIN不匹配."
+
+#: ../storage/framework/messages/e08778c082ad508a2317f1828ed4fca722e58c4b.php.php:531
+#: ../storage/framework/messages/e08778c082ad508a2317f1828ed4fca722e58c4b.php.php:547
+#: Http/Controllers/TodosController.php:531
+#: Http/Controllers/TodosController.php:547
+msgctxt "To-Dos"
+msgid "This is not a valid URL for the marketplace."
+msgstr "链接和国家市场不匹配."
+
+#: ../storage/framework/messages/e08778c082ad508a2317f1828ed4fca722e58c4b.php.php:545
+#: Http/Controllers/TodosController.php:545
+msgctxt "To-Dos"
+msgid "This is not a valid URL for the seller ID."
+msgstr "链接和卖家ID不匹配."
+
+#: ../storage/framework/messages/e38e1206eeb3f9af299623477c79c4506496d4cf.php.php:16
+msgctxt "Top nav bar"
+msgid ""
+"You must complete you profile in order to get access to the application."
+msgstr "请完善您的个人资料，填写所有的必填项并成功保存，否则无法使用其他功能."
+
+#: ../storage/framework/messages/e38e1206eeb3f9af299623477c79c4506496d4cf.php.php:20
+msgctxt "Top nav bar"
+msgid "Welcome to X-project"
+msgstr "欢迎访问爱评网itui.market"
+
+#: ../storage/framework/messages/e38e1206eeb3f9af299623477c79c4506496d4cf.php.php:29
+msgctxt "Top nav bar"
+msgid "Profile"
+msgstr "我的个人资料"
+
+#: ../storage/framework/messages/e38e1206eeb3f9af299623477c79c4506496d4cf.php.php:48
+msgctxt "Top nav bar"
+msgid "Log out"
+msgstr "登出"
+
+#: ../storage/framework/messages/e411dc3d9ef85c606eaf9eb4dc7f0030b8c09921.php.php:3
+#: ../storage/framework/messages/fecf2afae414be9c64aa0cd1426dc58dfacde7d7.php.php:5
+msgctxt "Profile"
+msgid "Add"
+msgstr "添加"
+
+#: ../storage/framework/messages/e619eb87860298ed20cc41d26e3cb7a1fc0ac0be.php.php:4
+#, php-format
+msgctxt "To-Dos"
+msgid "Shipping method: %s"
+msgstr "发货方式: %s"
+
+#: ../storage/framework/messages/e619eb87860298ed20cc41d26e3cb7a1fc0ac0be.php.php:5
+#, php-format
+msgctxt "To-Dos"
+msgid "%s"
+msgstr "%s"
+
+#: ../storage/framework/messages/e619eb87860298ed20cc41d26e3cb7a1fc0ac0be.php.php:6
+msgctxt "To-Dos"
+msgid "Daily limit reached"
+msgstr "每日可接收的测评限额已达到"
+
+#: ../storage/framework/messages/e619eb87860298ed20cc41d26e3cb7a1fc0ac0be.php.php:7
+#, php-format
+msgctxt "To-Dos"
+msgid "Completed: %u, unassigned: %u, others: %u, failed/deleted: %u"
+msgstr "已完成: %u, 无人接收: %u, 进行中: %u, 已失败&已删除: %u"
+
+#: ../storage/framework/messages/e6db454d66437ad88215afac06be0945b78ab12a.php.php:6
+msgctxt "Forgot password"
+msgid "Forgot password"
+msgstr "忘记密码"
+
+#: ../storage/framework/messages/e6db454d66437ad88215afac06be0945b78ab12a.php.php:29
+msgctxt "Forgot password"
+msgid "Welcome to X-project"
+msgstr "欢迎访问爱评网itui.market"
+
+#: ../storage/framework/messages/e6db454d66437ad88215afac06be0945b78ab12a.php.php:42
+msgctxt "Forgot password"
+msgid "Email address"
+msgstr "Email"
+
+#: ../storage/framework/messages/e6db454d66437ad88215afac06be0945b78ab12a.php.php:51
+msgctxt "Forgot password"
+msgid "Send reset email"
+msgstr "发送重置密码Email"
+
+#: ../storage/framework/messages/e6db454d66437ad88215afac06be0945b78ab12a.php.php:54
+msgctxt "Forgot password"
+msgid "An email has been sent to you."
+msgstr "一封重置密码的Email已发送给您."
+
+#: ../storage/framework/messages/e6db454d66437ad88215afac06be0945b78ab12a.php.php:61
+msgctxt "Forgot password"
+msgid "Login"
+msgstr "登录"
+
+#: ../storage/framework/messages/e9b78e406a121a40d260b0a5be5590dcc5136ffe.php.php:4
+#: ../storage/framework/messages/e9b78e406a121a40d260b0a5be5590dcc5136ffe.php.php:8
+msgctxt "To-Dos"
+msgid "To-Dos"
+msgstr "任务"
+
+#: ../storage/framework/messages/eaf37c259faf727727fe4664b8c5f1ef433fe9e8.php.php:3
+msgctxt "Projects"
+msgid "Edit project"
+msgstr "编辑评测"
+
+#: ../storage/framework/messages/eaf37c259faf727727fe4664b8c5f1ef433fe9e8.php.php:7
+msgctxt "Projects"
+msgid "Notes"
+msgstr "测评备注"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:3
+#, php-format
+msgctxt "Projects"
+msgid "%s"
+msgstr "%s"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:4
+msgctxt "Projects (to-dos)"
+msgid "Private"
+msgstr "荟员私有"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:5
+msgctxt "Projects (to-dos)"
+msgid "Title"
+msgstr "产品标题"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:6
+msgctxt "Projects (to-dos)"
+msgid "Description"
+msgstr "产品中文描述"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:7
+msgctxt "Projects (projects)"
+msgid "Title"
+msgstr "评价标题"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:8
+msgctxt "Projects (projects)"
+msgid "Description"
+msgstr "评价内容"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:10
+msgctxt "Projects"
+msgid "Download all"
+msgstr "全部下载"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:11
+#, php-format
+msgctxt "Projects"
+msgid "%u images"
+msgstr "%u 个图片"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:12
+#, php-format
+msgctxt "Projects"
+msgid "%u medias"
+msgstr "%u 个视频"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:13
+#, php-format
+msgctxt "Projects"
+msgid "You must submit the completion ID before %s"
+msgstr "您必须在%s之前提交Amz订单号"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:14
+msgctxt "Projects"
+msgid "You have already accepted"
+msgstr "您已接收"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:15
+msgctxt "Projects"
+msgid "projects of this store name,"
+msgstr "个相同店铺名的评价(6个月内),"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:16
+msgctxt "Projects"
+msgid "projects of this seller ID,"
+msgstr "个相同卖家ID的评价(6个月内),"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:17
+msgctxt "Projects"
+msgid "projects of this ASIN"
+msgstr "个相同ASIN的评价"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:18
+msgctxt "Projects"
+msgid "Freelancer"
+msgstr "测评师"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:19
+#, php-format
+msgctxt "Projects"
+msgid "Created at %s"
+msgstr "创建时间: %s"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:20
+#, php-format
+msgctxt "Projects"
+msgid "Completion ID submitted at %s"
+msgstr "Amz订单号提交时间: %s"
+
+#: ../storage/framework/messages/ee19552fcfb173097c743e25217799c803caca24.php.php:21
+#, php-format
+msgctxt "Projects"
+msgid "Completed at %s"
+msgstr "评价完成时间: %s"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:3
+msgctxt "To-Dos"
+msgid "ID"
+msgstr "快推单号/任务ID"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:4
+msgctxt "To-Dos"
+msgid "Shipping method"
+msgstr "发货方式"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:7
+msgctxt "To-Dos"
+msgid "Keywords"
+msgstr ""
+"关键词 (会在测评师购买时随机出现，输入后请按tab, 逗号, 或者回车键，否则输入无"
+"效)"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:8
+msgctxt "To-Dos"
+msgid "Product URL"
+msgstr "Amazon产品链接"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:9
+msgctxt "To-Dos"
+msgid "Product ASIN"
+msgstr "产品ASIN"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:10
+msgctxt "To-Dos"
+msgid "Marketplace"
+msgstr "Amazon市场国家名"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:12
+msgctxt "To-Dos"
+msgid "Product title"
+msgstr "产品标题 (e.g. Kiwi 100% Horsehair Shine Brush)"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:13
+msgctxt "To-Dos"
+msgid "Product description"
+msgstr "产品说明/简要描述 (e.g.鞋子)"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:15
+#, php-format
+msgctxt "To-Dos"
+msgid "Original seller name: %s"
+msgstr "原始荟员名称:%s"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:16
+msgctxt "To-Dos"
+msgid "Storefront URL"
+msgstr "卖家Amazon店铺链接"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:17
+msgctxt "To-Dos"
+msgid "Storefront name"
+msgstr "Amazon店铺名称"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:18
+msgctxt "To-Dos"
+msgid "Seller ID"
+msgstr "卖家ID"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:19
+msgctxt "To-Dos"
+msgid "Daily limit for projects"
+msgstr "每日可接收的测评数量"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:20
+msgctxt "To-Dos"
+msgid "Number of similar projects"
+msgstr "购买VP评价的数量"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:21
+msgctxt "To-Dos"
+msgid "Project title & description"
+msgstr "荟员提供评价内容（*如果选”是”, 荟员必须提供评价内容)"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:22
+msgctxt "To-Dos"
+msgid "Yes"
+msgstr "荟员必须提交评价内容"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:23
+msgctxt "To-Dos"
+msgid "No"
+msgstr "测评师需要自己写评价内容"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:24
+msgctxt "To-Dos"
+msgid "Notes"
+msgstr "任务备注"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:25
+#, php-format
+msgctxt "To-Dos"
+msgid "Price: RMB %s"
+msgstr "价格: RMB ¥%s"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:26
+msgctxt "To-Dos"
+msgid "Price formula:"
+msgstr "支付金额公式:"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:27
+msgctxt "To-Dos"
+msgid "Pay using:"
+msgstr "支付方式:"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:28
+msgctxt "To-Dos"
+msgid "Alipay"
+msgstr "支付宝"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:29
+msgctxt "To-Dos"
+msgid "huistore.com balance"
+msgstr "荟官网余额"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:31
+msgctxt "To-Dos"
+msgid "Edit to-do"
+msgstr "编辑任务"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:32
+msgctxt "To-Dos"
+msgid "Pay now"
+msgstr "立即支付(支付宝)"
+
+#: ../storage/framework/messages/ee434a0c0a5684fd6131c581269abb51f948271d.php.php:33
+msgctxt "To-Dos"
+msgid "Pay now with balance"
+msgstr "立即支付(荟官网余额)"
+
+#: ../storage/framework/messages/f0178e087a87f582783e9f52f191c521f7c12077.php.php:44
+#: Entities/Payment.php:44
+msgctxt "Payment"
+msgid "Pending"
+msgstr "待付款"
+
+#: ../storage/framework/messages/f0178e087a87f582783e9f52f191c521f7c12077.php.php:45
+#: Entities/Payment.php:45
+msgctxt "Payment"
+msgid "Successful"
+msgstr "付款成功"
+
+#: ../storage/framework/messages/f0178e087a87f582783e9f52f191c521f7c12077.php.php:46
+#: Entities/Payment.php:46
+msgctxt "Payment"
+msgid "Failed"
+msgstr "支付失败"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:17
+#: Http/ViewComposers/StatisticsComposer.php:17
+msgctxt "Statistics"
+msgid "Row"
+msgstr "评价ID"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:22
+#: Http/ViewComposers/StatisticsComposer.php:22
+msgctxt "Statistics"
+msgid "To-Do ASIN & Marketplace"
+msgstr "ASIN 和市场"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:27
+#: Http/ViewComposers/StatisticsComposer.php:27
+msgctxt "Statistics"
+msgid "Seller name & ID"
+msgstr "荟员名&卖家ID"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:32
+#: Http/ViewComposers/StatisticsComposer.php:32
+msgctxt "Statistics"
+msgid "Storefront"
+msgstr "店铺"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:58
+#: Http/ViewComposers/StatisticsComposer.php:58
+msgctxt "Statistics"
+msgid "Project completion ID & URL"
+msgstr "Amz订单号&评价链接"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:63
+#: Http/ViewComposers/StatisticsComposer.php:63
+msgctxt "Statistics"
+msgid "Dates"
+msgstr "日期"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:81
+#: Http/ViewComposers/StatisticsComposer.php:81
+msgctxt "Statistics"
+msgid "Date type"
+msgstr "日期类型"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:91
+#: Http/ViewComposers/StatisticsComposer.php:91
+msgctxt "Statistics"
+msgid "Date"
+msgstr "日期"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:97
+#: Http/ViewComposers/StatisticsComposer.php:97
+msgctxt "Statistics"
+msgid "ASIN/ID"
+msgstr "ASIN/任务ID"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:109
+#: Http/ViewComposers/StatisticsComposer.php:109
+msgctxt "Statistics"
+msgid "Freelancer name"
+msgstr "测评师"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:113
+#: Http/ViewComposers/StatisticsComposer.php:113
+msgctxt "Statistics"
+msgid "Status"
+msgstr "评测状态"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:122
+#: Http/ViewComposers/StatisticsComposer.php:122
+msgctxt "Statistics"
+msgid "Yes, private project"
+msgstr "私有任务, 仅荟员您的私有测评师可见"
+
+#: ../storage/framework/messages/f5f4612d7d05c17f6c4e4b86e1ce9339e6678717.php.php:123
+#: Http/ViewComposers/StatisticsComposer.php:123
+msgctxt "Statistics"
+msgid "No, public project"
+msgstr "公开任务, 仅荟网的测评师可见"
+
+#: ../storage/framework/messages/fecf2afae414be9c64aa0cd1426dc58dfacde7d7.php.php:3
+msgctxt "Profile"
+msgid "URL"
+msgstr "Amz店铺URL"
+
+#: ../storage/framework/messages/fecf2afae414be9c64aa0cd1426dc58dfacde7d7.php.php:4
+msgctxt "Profile"
+msgid "Names"
+msgstr "Amz店铺名称"
+
+#~ msgctxt "Statistics"
+#~ msgid "Yes"
+#~ msgstr "有"
+
+#~ msgctxt "Statistics"
+#~ msgid "No"
+#~ msgstr "没有"
+
+#~ msgctxt "Projects"
+#~ msgid "Yes"
+#~ msgstr "有"
+
+#~ msgctxt "Projects"
+#~ msgid "No"
+#~ msgstr "没有"
+
+#~ msgctxt "Projects"
+#~ msgid "Freelancer's name"
+#~ msgstr "测评师"
+
+#~ msgctxt "Users"
+#~ msgid "Add points"
+#~ msgstr "添加积分"

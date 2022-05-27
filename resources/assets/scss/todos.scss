@@ -1,0 +1,40 @@
+.payment-popup-response pre{
+  line-height: 0.90;
+  max-height: 400px;
+  overflow: auto;
+}
+
+.price-footer{
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.price-footer .price-formula .price{
+  color: Red;
+}
+
+.progress.todo-progress{
+  margin-bottom: 5px;
+}
+
+// From vue-input-tag
+.todo-keywords .todo-keyword{
+  background-color: #cde69c;
+  border: 1px solid #a5d24a;
+  border-radius: 2px;
+  color: #638421;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  margin-right: 4px;
+  padding: 3px;
+}
+
+.todo-progress-bar-completed{
+  background-color: #9bbb58;
+}
+
+.todo-progress-bar-unassigned{
+  background-color: #878787;
+}

@@ -1,0 +1,18 @@
+.import-preview{
+  max-height: 480px;
+  overflow: auto;
+}
+
+.import-preview .imported-user.imported-user-error{
+  background-color: Red;
+  color: White;
+}
+
+.import-preview .imported-user.imported-user-existing{
+  background-color: Gray;
+  color: LightGray;
+}
+
+.import-preview .imported-user.imported-user-ok{
+  background-color: LightGreen;
+}

@@ -1,0 +1,1414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: X-project\n"
+"POT-Creation-Date: 2018-11-20 08:59+0800\n"
+"PO-Revision-Date: 2018-11-20 08:59+0800\n"
+"Last-Translator: Bo Liu <boliu@huistore.com>\n"
+"Language-Team: Bo Liu <boliu@huistore.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_ix:1,2c;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http\n"
+"X-Poedit-SearchPath-1: ../resources/assets/vue\n"
+"X-Poedit-SearchPath-2: ../resources/views\n"
+"X-Poedit-SearchPath-3: Console\n"
+"X-Poedit-SearchPath-4: Entities\n"
+"X-Poedit-SearchPath-5: .\n"
+"X-Poedit-SearchPath-6: ../storage/framework/messages/\n"
+
+#: ../storage/framework/messages/0ff3ea4522d50c4527fe416211cbe61eadbdb2f3.php.php:18
+#: ../storage/framework/messages/4ab18c7097e4349d2ca48fe571a571e4df9d1cc2.php.php:18
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:115
+msgctxt "Projects"
+msgid "Delete"
+msgstr ""
+
+#: ../storage/framework/messages/0ff3ea4522d50c4527fe416211cbe61eadbdb2f3.php.php:28
+msgctxt "Projects"
+msgid "Add image"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:12
+msgctxt "To-Dos"
+msgid "ID"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:25
+msgctxt "To-Dos"
+msgid "Shipping method"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:32
+#: ../storage/framework/messages/151e6780472c2080ac09c6e92629577ac0d1f9fb.php.php:96
+#: Http/Controllers/TodosController.php:96
+msgctxt "To-Dos"
+msgid "FBA"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:40
+#: ../storage/framework/messages/151e6780472c2080ac09c6e92629577ac0d1f9fb.php.php:96
+#: Http/Controllers/TodosController.php:96
+msgctxt "To-Dos"
+msgid "FBM"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:50
+msgctxt "To-Dos"
+msgid "Product URL"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:63
+msgctxt "To-Dos"
+msgid "Product ASIN"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:75
+msgctxt "To-Dos"
+msgid "Marketplace"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:87
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:25
+#: Http/ViewComposers/TodosComposer.php:25
+msgctxt "To-Dos"
+msgid "Product price"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:102
+msgctxt "To-Dos"
+msgid "Product title"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:113
+msgctxt "To-Dos"
+msgid "Product description"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:124
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:86
+#: Http/ViewComposers/TodosComposer.php:86
+msgctxt "To-Dos"
+msgid "Seller name"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:135
+msgctxt "To-Dos"
+msgid "Storefront URL"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:148
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:82
+#: Http/ViewComposers/TodosComposer.php:82
+msgctxt "To-Dos"
+msgid "Seller ID"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:160
+msgctxt "To-Dos"
+msgid "Daily limit for projects"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:172
+msgctxt "To-Dos"
+msgid "Number of similar projects"
+msgstr ""
+
+#: ../storage/framework/messages/12f990906edb8a9e37114b35a282bdfe8958cf04.php.php:189
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:40
+#: Http/ViewComposers/TodosComposer.php:40
+msgctxt "To-Dos"
+msgid "Notes"
+msgstr ""
+
+#: ../storage/framework/messages/151e6780472c2080ac09c6e92629577ac0d1f9fb.php.php:220
+#: Http/Controllers/TodosController.php:220
+msgctxt "To-Dos"
+msgid "This is not a valid URL for the product ASIN."
+msgstr ""
+
+#: ../storage/framework/messages/151e6780472c2080ac09c6e92629577ac0d1f9fb.php.php:222
+#: ../storage/framework/messages/151e6780472c2080ac09c6e92629577ac0d1f9fb.php.php:236
+#: Http/Controllers/TodosController.php:222
+#: Http/Controllers/TodosController.php:236
+msgctxt "To-Dos"
+msgid "This is not a valid URL for the marketplace."
+msgstr ""
+
+#: ../storage/framework/messages/151e6780472c2080ac09c6e92629577ac0d1f9fb.php.php:234
+#: Http/Controllers/TodosController.php:234
+msgctxt "To-Dos"
+msgid "This is not a valid URL for the seller ID."
+msgstr ""
+
+#: ../storage/framework/messages/1f9700749f18950e504ff5d178c89e3dee5685ff.php.php:26
+#: Http/ViewComposers/Admin/LogsComposer.php:26
+msgctxt "Log Viewer"
+msgid "File"
+msgstr ""
+
+#: ../storage/framework/messages/1f9700749f18950e504ff5d178c89e3dee5685ff.php.php:32
+#: Http/ViewComposers/Admin/LogsComposer.php:32
+msgctxt "Log Viewer"
+msgid "View"
+msgstr ""
+
+#: ../storage/framework/messages/1f9700749f18950e504ff5d178c89e3dee5685ff.php.php:35
+#: Http/ViewComposers/Admin/LogsComposer.php:35
+msgctxt "Log Viewer"
+msgid "Last 20000 bytes"
+msgstr ""
+
+#: ../storage/framework/messages/1f9700749f18950e504ff5d178c89e3dee5685ff.php.php:36
+#: Http/ViewComposers/Admin/LogsComposer.php:36
+msgctxt "Log Viewer"
+msgid "Errors only"
+msgstr ""
+
+#: ../storage/framework/messages/1f9700749f18950e504ff5d178c89e3dee5685ff.php.php:37
+#: Http/ViewComposers/Admin/LogsComposer.php:37
+msgctxt "Log Viewer"
+msgid "Info only"
+msgstr ""
+
+#: ../storage/framework/messages/1f9700749f18950e504ff5d178c89e3dee5685ff.php.php:38
+#: Http/ViewComposers/Admin/LogsComposer.php:38
+msgctxt "Log Viewer"
+msgid "All"
+msgstr ""
+
+#: ../storage/framework/messages/1f9700749f18950e504ff5d178c89e3dee5685ff.php.php:39
+#: Http/ViewComposers/Admin/LogsComposer.php:39
+msgctxt "Log Viewer"
+msgid "Search..."
+msgstr ""
+
+#: ../storage/framework/messages/1f9700749f18950e504ff5d178c89e3dee5685ff.php.php:44
+#: Http/ViewComposers/Admin/LogsComposer.php:44
+msgctxt "Log Viewer"
+msgid "Search text"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:38
+#: functions.php:38
+#, php-format
+msgctxt "Date"
+msgid "%u days ago"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:40
+#: functions.php:40
+msgctxt "Date"
+msgid "One day ago"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:42
+#: functions.php:42
+#, php-format
+msgctxt "Date"
+msgid "%u hours ago"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:44
+#: functions.php:44
+msgctxt "Date"
+msgid "One hour ago"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:46
+#: functions.php:46
+#, php-format
+msgctxt "Date"
+msgid "%u minutes ago"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:48
+#: functions.php:48
+msgctxt "Date"
+msgid "One minute ago"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:50
+#: functions.php:50
+#, php-format
+msgctxt "Date"
+msgid "%u seconds ago"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:52
+#: functions.php:52
+msgctxt "Date"
+msgid "One second ago"
+msgstr ""
+
+#: ../storage/framework/messages/3176bf76d21efe5c5494c1a4e92d6b2cb1448fb8.php.php:54
+#: functions.php:54
+msgctxt "Date"
+msgid "Now"
+msgstr ""
+
+#: ../storage/framework/messages/3423997f40d229c37193c96aab07481f8bc1c38d.php.php:6
+#: ../storage/framework/messages/3423997f40d229c37193c96aab07481f8bc1c38d.php.php:62
+msgctxt "Login"
+msgid "Login"
+msgstr ""
+
+#: ../storage/framework/messages/3423997f40d229c37193c96aab07481f8bc1c38d.php.php:31
+msgctxt "Login"
+msgid "Welcome to X-project"
+msgstr ""
+
+#: ../storage/framework/messages/3423997f40d229c37193c96aab07481f8bc1c38d.php.php:44
+msgctxt "Login"
+msgid "Email address"
+msgstr ""
+
+#: ../storage/framework/messages/3423997f40d229c37193c96aab07481f8bc1c38d.php.php:57
+msgctxt "Login"
+msgid "Password"
+msgstr ""
+
+#: ../storage/framework/messages/354b581a33b9111e80c4a695566e89d948562a06.php.php:10
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:14
+msgctxt "Projects"
+msgid "Product title"
+msgstr ""
+
+#: ../storage/framework/messages/354b581a33b9111e80c4a695566e89d948562a06.php.php:21
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:20
+msgctxt "Projects"
+msgid "Product description"
+msgstr ""
+
+#: ../storage/framework/messages/354b581a33b9111e80c4a695566e89d948562a06.php.php:32
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:44
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:39
+#: Http/ViewComposers/ProjectsComposer.php:39
+msgctxt "Projects"
+msgid "Project price"
+msgstr ""
+
+#: ../storage/framework/messages/354b581a33b9111e80c4a695566e89d948562a06.php.php:45
+msgctxt "Projects"
+msgid "Notes"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:20
+#: Http/ViewComposers/TodosComposer.php:20
+msgctxt "To-Dos"
+msgid "ID & ASIN"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:30
+#: Http/ViewComposers/TodosComposer.php:30
+msgctxt "To-Dos"
+msgid "Product title & Description"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:35
+#: Http/ViewComposers/TodosComposer.php:35
+msgctxt "To-Dos"
+msgid "Seller name & ID"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:45
+#: Http/ViewComposers/TodosComposer.php:45
+msgctxt "To-Dos"
+msgid "To-Do status"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:51
+#: Http/ViewComposers/TodosComposer.php:51
+msgctxt "To-Dos"
+msgid "To-Do progress"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:57
+#: Http/ViewComposers/TodosComposer.php:57
+msgctxt "To-Dos"
+msgid "Created at"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:62
+#: Http/ViewComposers/TodosComposer.php:62
+msgctxt "To-Dos"
+msgid "Operations"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:69
+#: Http/ViewComposers/TodosComposer.php:69
+msgctxt "To-Dos"
+msgid "Statuses"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:78
+#: Http/ViewComposers/TodosComposer.php:78
+msgctxt "To-Dos"
+msgid "ASIN/ID"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:90
+#: Http/ViewComposers/TodosComposer.php:90
+msgctxt "To-Dos"
+msgid "Freelancer name"
+msgstr ""
+
+#: ../storage/framework/messages/3c9bdde020a4b9dc9f4c19ca1087243eefd7fd11.php.php:94
+#: Http/ViewComposers/TodosComposer.php:94
+msgctxt "To-Dos"
+msgid "Creation date"
+msgstr ""
+
+#: ../storage/framework/messages/444e6e09786d1c72b2d0f3f7371348d82ffeae7a.php.php:54
+#, php-format
+msgctxt "Statistics"
+msgid "Created at %s"
+msgstr ""
+
+#: ../storage/framework/messages/444e6e09786d1c72b2d0f3f7371348d82ffeae7a.php.php:55
+#, php-format
+msgctxt "Statistics"
+msgid "Completion ID submitted at %s"
+msgstr ""
+
+#: ../storage/framework/messages/444e6e09786d1c72b2d0f3f7371348d82ffeae7a.php.php:56
+#, php-format
+msgctxt "Statistics"
+msgid "Completed at %s"
+msgstr ""
+
+#: ../storage/framework/messages/449c73ec43a2e16fae680182b7ff456c14d56a79.php.php:42
+#: Entities/Todo.php:42
+msgctxt "To-Do"
+msgid "Unassigned"
+msgstr ""
+
+#: ../storage/framework/messages/449c73ec43a2e16fae680182b7ff456c14d56a79.php.php:43
+#: Entities/Todo.php:43
+msgctxt "To-Do"
+msgid "Accepted"
+msgstr ""
+
+#: ../storage/framework/messages/449c73ec43a2e16fae680182b7ff456c14d56a79.php.php:44
+#: Entities/Todo.php:44
+msgctxt "To-Do"
+msgid "Completed"
+msgstr ""
+
+#: ../storage/framework/messages/449c73ec43a2e16fae680182b7ff456c14d56a79.php.php:45
+#: Entities/Todo.php:45
+msgctxt "To-Do"
+msgid "Deleted"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:19
+#: Http/ViewComposers/StatisticsComposer.php:19
+msgctxt "Statistics"
+msgid "Row"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:24
+#: Http/ViewComposers/StatisticsComposer.php:24
+msgctxt "Statistics"
+msgid "To-Do ASIN & Marketplace"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:29
+#: Http/ViewComposers/StatisticsComposer.php:29
+msgctxt "Statistics"
+msgid "Seller name & ID"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:34
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:53
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:53
+#: Http/ViewComposers/StatisticsComposer.php:34
+msgctxt "Statistics"
+msgid "Freelancer's name"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:39
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:54
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:54
+#: Http/ViewComposers/StatisticsComposer.php:39
+msgctxt "Statistics"
+msgid "Project currency"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:45
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:55
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:55
+#: Http/ViewComposers/StatisticsComposer.php:45
+msgctxt "Statistics"
+msgid "Project price"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:50
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:56
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:56
+#: Http/ViewComposers/StatisticsComposer.php:50
+msgctxt "Statistics"
+msgid "Project status"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:55
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:57
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:57
+#: Http/ViewComposers/StatisticsComposer.php:55
+msgctxt "Statistics"
+msgid "Project completion ID"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:60
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:58
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:58
+#: Http/ViewComposers/StatisticsComposer.php:60
+msgctxt "Statistics"
+msgid "Project completion URL"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:65
+#: Http/ViewComposers/StatisticsComposer.php:65
+msgctxt "Statistics"
+msgid "Dates"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:90
+#: Http/ViewComposers/StatisticsComposer.php:90
+msgctxt "Statistics"
+msgid "Date type"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:93
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:59
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:59
+#: Http/ViewComposers/StatisticsComposer.php:93
+msgctxt "Statistics"
+msgid "Project created date"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:94
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:60
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:60
+#: Http/ViewComposers/StatisticsComposer.php:94
+msgctxt "Statistics"
+msgid "Completion ID submit date"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:95
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:61
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:61
+#: Http/ViewComposers/StatisticsComposer.php:95
+msgctxt "Statistics"
+msgid "Project completion date"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:100
+#: Http/ViewComposers/StatisticsComposer.php:100
+msgctxt "Statistics"
+msgid "Date"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:106
+#: Http/ViewComposers/StatisticsComposer.php:106
+msgctxt "Statistics"
+msgid "ASIN/ID"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:110
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:51
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:51
+#: Http/ViewComposers/StatisticsComposer.php:110
+msgctxt "Statistics"
+msgid "Seller ID"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:114
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:50
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:50
+#: Http/ViewComposers/StatisticsComposer.php:114
+msgctxt "Statistics"
+msgid "Seller name"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:118
+#: Http/ViewComposers/StatisticsComposer.php:118
+msgctxt "Statistics"
+msgid "Freelancer name"
+msgstr ""
+
+#: ../storage/framework/messages/46f9e0ad498c6e3782c8e7ea18b42f1d547c1669.php.php:122
+#: Http/ViewComposers/StatisticsComposer.php:122
+msgctxt "Statistics"
+msgid "Status"
+msgstr ""
+
+#: ../storage/framework/messages/4ab18c7097e4349d2ca48fe571a571e4df9d1cc2.php.php:28
+msgctxt "Projects"
+msgid "Add media"
+msgstr ""
+
+#: ../storage/framework/messages/4ab49d6faea8d669d88749e6f6c28ad7d0bcf0fd.php.php:28
+msgctxt "Popup"
+msgid "Close"
+msgstr ""
+
+#: ../storage/framework/messages/4ab49d6faea8d669d88749e6f6c28ad7d0bcf0fd.php.php:37
+msgctxt "Popup"
+msgid "Save"
+msgstr ""
+
+#: ../storage/framework/messages/4ab49d6faea8d669d88749e6f6c28ad7d0bcf0fd.php.php:45
+msgctxt "Popup"
+msgid "Save error"
+msgstr ""
+
+#: ../storage/framework/messages/4f645afbb9f3f27e9f5463084f5dfc195477a0f8.php.php:23
+msgctxt "Projects"
+msgid "Download"
+msgstr ""
+
+#: ../storage/framework/messages/4f645afbb9f3f27e9f5463084f5dfc195477a0f8.php.php:32
+msgctxt "Projects"
+msgid "Download with separate sheets"
+msgstr ""
+
+#: ../storage/framework/messages/5004b31b01194e7e59fe71814a359c9cefa20c6a.php.php:1
+#: ../storage/framework/messages/da6699567bf44d481f6381fd80a7ffc3c85403e4.php.php:90
+msgctxt "Menu option"
+msgid "Log Viewer"
+msgstr ""
+
+#: ../storage/framework/messages/5004b31b01194e7e59fe71814a359c9cefa20c6a.php.php:4
+#: ../storage/framework/messages/5004b31b01194e7e59fe71814a359c9cefa20c6a.php.php:8
+msgctxt "Log Viewer"
+msgid "Log Viewer"
+msgstr ""
+
+#: ../storage/framework/messages/53b5161e2b2d69db879479db3673c6bf1f3ca0c5.php.php:1
+#: ../storage/framework/messages/da6699567bf44d481f6381fd80a7ffc3c85403e4.php.php:65
+msgctxt "Menu option"
+msgid "To-Dos"
+msgstr ""
+
+#: ../storage/framework/messages/53b5161e2b2d69db879479db3673c6bf1f3ca0c5.php.php:4
+#: ../storage/framework/messages/53b5161e2b2d69db879479db3673c6bf1f3ca0c5.php.php:8
+msgctxt "To-Dos"
+msgid "To-Dos"
+msgstr ""
+
+#: ../storage/framework/messages/56249ca30b4afadc8016ffa3dcb507f13b4d39fb.php.php:39
+msgctxt "Table"
+msgid "No items found"
+msgstr ""
+
+#: ../storage/framework/messages/56249ca30b4afadc8016ffa3dcb507f13b4d39fb.php.php:46
+msgctxt "Table"
+msgid "Loading items..."
+msgstr ""
+
+#: ../storage/framework/messages/56249ca30b4afadc8016ffa3dcb507f13b4d39fb.php.php:70
+#, php-format
+msgctxt "Table"
+msgid "%s items found"
+msgstr ""
+
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:8
+msgctxt "Projects"
+msgid "Row"
+msgstr ""
+
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:26
+#: ../storage/framework/messages/ba8a7cff29d6a74e8ab4a62761095ee07e390abb.php.php:10
+msgctxt "Projects"
+msgid "Project title"
+msgstr ""
+
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:32
+#: ../storage/framework/messages/ba8a7cff29d6a74e8ab4a62761095ee07e390abb.php.php:21
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:90
+#: Http/ViewComposers/ProjectsComposer.php:90
+msgctxt "Projects"
+msgid "Project description"
+msgstr ""
+
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:38
+#: ../storage/framework/messages/ba8a7cff29d6a74e8ab4a62761095ee07e390abb.php.php:32
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:64
+msgctxt "Projects"
+msgid "Store description"
+msgstr ""
+
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:52
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:50
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:120
+#: Http/ViewComposers/ProjectsComposer.php:50
+#: Http/ViewComposers/ProjectsComposer.php:120
+msgctxt "Projects"
+msgid "Status"
+msgstr ""
+
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:58
+#: ../storage/framework/messages/ba8a7cff29d6a74e8ab4a62761095ee07e390abb.php.php:43
+msgctxt "Projects"
+msgid "Images"
+msgstr ""
+
+#: ../storage/framework/messages/5d9884c4bf7105c37fe9772a3646c486d2e3e814.php.php:70
+#: ../storage/framework/messages/ba8a7cff29d6a74e8ab4a62761095ee07e390abb.php.php:53
+msgctxt "Projects"
+msgid "Media"
+msgstr ""
+
+#: ../storage/framework/messages/5e44e8bb9a5fe092bf140d4a3175c07e882720f3.php.php:8
+msgctxt "To-Dos"
+msgid "Create to-do"
+msgstr ""
+
+#: ../storage/framework/messages/6376c7eff64a8fa0687d839b95ffc9a32c0c572b.php.php:3
+msgctxt "Table"
+msgid "Show"
+msgstr ""
+
+#: ../storage/framework/messages/6376c7eff64a8fa0687d839b95ffc9a32c0c572b.php.php:11
+msgctxt "Table"
+msgid "per page"
+msgstr ""
+
+#: ../storage/framework/messages/6c1314a6671e46f3acf709d18f5ad883479503ec.php.php:40
+msgctxt "Filter"
+msgid "Filter"
+msgstr ""
+
+#: ../storage/framework/messages/6f7f927e391e48c6f4de78f286fc7ac69c737cc8.php.php:65
+#: Entities/Project.php:65
+msgctxt "Project"
+msgid "Unassigned"
+msgstr ""
+
+#: ../storage/framework/messages/6f7f927e391e48c6f4de78f286fc7ac69c737cc8.php.php:66
+#: Entities/Project.php:66
+msgctxt "Project"
+msgid "Accepted"
+msgstr ""
+
+#: ../storage/framework/messages/6f7f927e391e48c6f4de78f286fc7ac69c737cc8.php.php:67
+#: Entities/Project.php:67
+msgctxt "Project"
+msgid "Waiting for description"
+msgstr ""
+
+#: ../storage/framework/messages/6f7f927e391e48c6f4de78f286fc7ac69c737cc8.php.php:68
+#: Entities/Project.php:68
+msgctxt "Project"
+msgid "Waiting for URL"
+msgstr ""
+
+#: ../storage/framework/messages/6f7f927e391e48c6f4de78f286fc7ac69c737cc8.php.php:69
+#: Entities/Project.php:69
+msgctxt "Project"
+msgid "Waiting for confirmation"
+msgstr ""
+
+#: ../storage/framework/messages/6f7f927e391e48c6f4de78f286fc7ac69c737cc8.php.php:70
+#: Entities/Project.php:70
+msgctxt "Project"
+msgid "Completed"
+msgstr ""
+
+#: ../storage/framework/messages/6f7f927e391e48c6f4de78f286fc7ac69c737cc8.php.php:71
+#: Entities/Project.php:71
+msgctxt "Project"
+msgid "Failed"
+msgstr ""
+
+#: ../storage/framework/messages/6f7f927e391e48c6f4de78f286fc7ac69c737cc8.php.php:72
+#: Entities/Project.php:72
+msgctxt "Project"
+msgid "Deleted"
+msgstr ""
+
+#: ../storage/framework/messages/776486fc395eb8712e192502a351813b5060afc0.php.php:1
+#: ../storage/framework/messages/da6699567bf44d481f6381fd80a7ffc3c85403e4.php.php:84
+msgctxt "Menu option"
+msgid "Users"
+msgstr ""
+
+#: ../storage/framework/messages/776486fc395eb8712e192502a351813b5060afc0.php.php:4
+#: ../storage/framework/messages/776486fc395eb8712e192502a351813b5060afc0.php.php:8
+msgctxt "Users"
+msgid "Users"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:12
+msgctxt "Projects"
+msgid "View details"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:24
+msgctxt "Projects"
+msgid "Accept"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:31
+msgctxt "Projects"
+msgid "Daily limit reached"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:43
+msgctxt "Projects"
+msgid "Submit completion ID"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:55
+msgctxt "Projects"
+msgid "Submit completion URL"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:67
+msgctxt "Projects"
+msgid "Edit"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:79
+msgctxt "Projects"
+msgid "Submit description"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:91
+msgctxt "Projects"
+msgid "Confirm"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:103
+msgctxt "Projects"
+msgid "Fail"
+msgstr ""
+
+#: ../storage/framework/messages/7c4fd51c5570e292b9715955e8bc7289a1ea1a33.php.php:127
+msgctxt "Projects"
+msgid "Restore"
+msgstr ""
+
+#: ../storage/framework/messages/80d2ad87d1fd62cd79bc716c1dc49e0ad349de1b.php.php:27
+#, php-format
+msgctxt "To-Dos"
+msgid "Shipping method: %s"
+msgstr ""
+
+#: ../storage/framework/messages/80d2ad87d1fd62cd79bc716c1dc49e0ad349de1b.php.php:61
+msgctxt "To-Dos"
+msgid "Daily limit reached"
+msgstr ""
+
+#: ../storage/framework/messages/80d2ad87d1fd62cd79bc716c1dc49e0ad349de1b.php.php:74
+#, php-format
+msgctxt "To-Dos"
+msgid "Completed: %u, unassigned: %u, others: %u, failed/deleted: %u"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:10
+msgctxt "File input"
+msgid "Select file"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:11
+msgctxt "File input"
+msgid "Change"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:25
+msgctxt "File input"
+msgid "Reset"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:33
+msgctxt "File input"
+msgid "Retry"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:33
+msgctxt "File input"
+msgid "Upload"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:51
+msgctxt "File input"
+msgid "An error has occurred while trying to upload the file"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:58
+#, php-format
+msgctxt "File input"
+msgid "File %s uploaded"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:72
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:104
+msgctxt "File input"
+msgid "Download"
+msgstr ""
+
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:81
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:93
+#: ../storage/framework/messages/83463b8d69ae26a4ca2c5bb476ca05d5f6b23efe.php.php:113
+msgctxt "File input"
+msgid "Clear"
+msgstr ""
+
+#: ../storage/framework/messages/889fbec1360f35e01edfc7d3094270cd6d5bbd4f.php.php:8
+msgctxt "To-Dos"
+msgid "View projects"
+msgstr ""
+
+#: ../storage/framework/messages/889fbec1360f35e01edfc7d3094270cd6d5bbd4f.php.php:20
+msgctxt "To-Dos"
+msgid "Edit"
+msgstr ""
+
+#: ../storage/framework/messages/889fbec1360f35e01edfc7d3094270cd6d5bbd4f.php.php:32
+msgctxt "To-Dos"
+msgid "Clone"
+msgstr ""
+
+#: ../storage/framework/messages/889fbec1360f35e01edfc7d3094270cd6d5bbd4f.php.php:44
+msgctxt "To-Dos"
+msgid "Complete"
+msgstr ""
+
+#: ../storage/framework/messages/889fbec1360f35e01edfc7d3094270cd6d5bbd4f.php.php:56
+msgctxt "To-Dos"
+msgid "Reopen"
+msgstr ""
+
+#: ../storage/framework/messages/889fbec1360f35e01edfc7d3094270cd6d5bbd4f.php.php:68
+msgctxt "To-Dos"
+msgid "Delete"
+msgstr ""
+
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:17
+#: ../storage/framework/messages/c09beb188f907e7acbde69108e60d3f3c0f13cde.php.php:4
+#: ../storage/framework/messages/c09beb188f907e7acbde69108e60d3f3c0f13cde.php.php:8
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:17
+msgctxt "Statistics"
+msgid "Statistics"
+msgstr ""
+
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:47
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:47
+msgctxt "Statistics"
+msgid "To-Do ID"
+msgstr ""
+
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:48
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:48
+msgctxt "Statistics"
+msgid "To-Do ASIN"
+msgstr ""
+
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:49
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:49
+msgctxt "Statistics"
+msgid "To-Do marketplace"
+msgstr ""
+
+#: ../storage/framework/messages/942018705214b5d2291b84c55cf720810463def7.php.php:52
+#: Http/Helpers/ExcelExport/StatisticsExcelExport.php:52
+msgctxt "Statistics"
+msgid "To-Do initial price"
+msgstr ""
+
+#: ../storage/framework/messages/976e2b8279030e7d3b0065b5b58302bce1042c36.php.php:9
+msgctxt "Master"
+msgid " - X-project"
+msgstr ""
+
+#: ../storage/framework/messages/97b422c9a27f3f805f372edd26e03e7039e1d670.php.php:51
+#: Entities/User.php:51
+msgctxt "User"
+msgid "Administrator"
+msgstr ""
+
+#: ../storage/framework/messages/97b422c9a27f3f805f372edd26e03e7039e1d670.php.php:52
+#: Entities/User.php:52
+msgctxt "User"
+msgid "Manager"
+msgstr ""
+
+#: ../storage/framework/messages/97b422c9a27f3f805f372edd26e03e7039e1d670.php.php:53
+#: Entities/User.php:53
+msgctxt "User"
+msgid "Freelancer"
+msgstr ""
+
+#: ../storage/framework/messages/986ad0a576362a21c833be9e6c4335458efd1431.php.php:9
+msgctxt "Top nav bar"
+msgid "Welcome to X-project"
+msgstr ""
+
+#: ../storage/framework/messages/986ad0a576362a21c833be9e6c4335458efd1431.php.php:19
+msgctxt "Top nav bar"
+msgid "Log out"
+msgstr ""
+
+#: ../storage/framework/messages/9c66fab790a9deac4e68c94d658deebc28d4bee2.php.php:17
+#: Http/ViewComposers/Admin/UsersComposer.php:17
+msgctxt "Users"
+msgid "Email address"
+msgstr ""
+
+#: ../storage/framework/messages/9c66fab790a9deac4e68c94d658deebc28d4bee2.php.php:22
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:64
+#: Http/ViewComposers/Admin/UsersComposer.php:22
+msgctxt "Users"
+msgid "Name"
+msgstr ""
+
+#: ../storage/framework/messages/9c66fab790a9deac4e68c94d658deebc28d4bee2.php.php:27
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:53
+#: Http/ViewComposers/Admin/UsersComposer.php:27
+msgctxt "Users"
+msgid "Role"
+msgstr ""
+
+#: ../storage/framework/messages/9c66fab790a9deac4e68c94d658deebc28d4bee2.php.php:32
+#: Http/ViewComposers/Admin/UsersComposer.php:32
+msgctxt "Users"
+msgid "Created at"
+msgstr ""
+
+#: ../storage/framework/messages/9c66fab790a9deac4e68c94d658deebc28d4bee2.php.php:37
+#: Http/ViewComposers/Admin/UsersComposer.php:37
+msgctxt "Users"
+msgid "Operations"
+msgstr ""
+
+#: ../storage/framework/messages/9c66fab790a9deac4e68c94d658deebc28d4bee2.php.php:50
+#: Http/ViewComposers/Admin/UsersComposer.php:50
+msgctxt "Users"
+msgid "Chinese"
+msgstr ""
+
+#: ../storage/framework/messages/9c66fab790a9deac4e68c94d658deebc28d4bee2.php.php:51
+#: Http/ViewComposers/Admin/UsersComposer.php:51
+msgctxt "Users"
+msgid "English"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:12
+msgctxt "Users"
+msgid "Email"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:29
+msgctxt "Users"
+msgid "Password"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:45
+msgctxt "Users"
+msgid "Password (confirmation)"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:75
+msgctxt "Users"
+msgid "Cell phone number"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:86
+msgctxt "Users"
+msgid "Timezone"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:97
+msgctxt "Users"
+msgid "Language"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:110
+msgctxt "Users"
+msgid "QQ"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:121
+msgctxt "Users"
+msgid "Wechat ID"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:132
+msgctxt "Users"
+msgid "Alipay ID"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:143
+msgctxt "Users"
+msgid "Company"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:154
+msgctxt "Users"
+msgid "Website URL"
+msgstr ""
+
+#: ../storage/framework/messages/9ea421bec0ca31935d8ba106502eba9b4bdbaa72.php.php:159
+msgctxt "Users"
+msgid "The URL must start with http or https; example: http://example.com"
+msgstr ""
+
+#: ../storage/framework/messages/a2d577fbe55abc6edb2cc1e6e03651af8887027e.php.php:10
+msgctxt "Projects"
+msgid "Completion URL"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:12
+#: Services/MarketplaceInformation/MarketplaceInformation.php:12
+msgctxt "Marketplace information"
+msgid "Canada"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:13
+#: Services/MarketplaceInformation/MarketplaceInformation.php:13
+msgctxt "Marketplace information"
+msgid "USA"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:14
+#: Services/MarketplaceInformation/MarketplaceInformation.php:14
+msgctxt "Marketplace information"
+msgid "Mexico"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:15
+#: Services/MarketplaceInformation/MarketplaceInformation.php:15
+msgctxt "Marketplace information"
+msgid "Germany"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:16
+#: Services/MarketplaceInformation/MarketplaceInformation.php:16
+msgctxt "Marketplace information"
+msgid "Spain"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:17
+#: Services/MarketplaceInformation/MarketplaceInformation.php:17
+msgctxt "Marketplace information"
+msgid "France"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:18
+#: Services/MarketplaceInformation/MarketplaceInformation.php:18
+msgctxt "Marketplace information"
+msgid "Italy"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:19
+#: Services/MarketplaceInformation/MarketplaceInformation.php:19
+msgctxt "Marketplace information"
+msgid "UK"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:20
+#: Services/MarketplaceInformation/MarketplaceInformation.php:20
+msgctxt "Marketplace information"
+msgid "Japan"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:21
+#: Services/MarketplaceInformation/MarketplaceInformation.php:21
+msgctxt "Marketplace information"
+msgid "India"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:22
+#: Services/MarketplaceInformation/MarketplaceInformation.php:22
+msgctxt "Marketplace information"
+msgid "China"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:398
+#: Services/MarketplaceInformation/MarketplaceInformation.php:398
+msgctxt "Marketplace information"
+msgid "Ottawa"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:400
+#: Services/MarketplaceInformation/MarketplaceInformation.php:400
+msgctxt "Marketplace information"
+msgid "Washington, D.C."
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:402
+#: Services/MarketplaceInformation/MarketplaceInformation.php:402
+msgctxt "Marketplace information"
+msgid "Mexico City"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:404
+#: Services/MarketplaceInformation/MarketplaceInformation.php:404
+msgctxt "Marketplace information"
+msgid "Berlin"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:406
+#: Services/MarketplaceInformation/MarketplaceInformation.php:406
+msgctxt "Marketplace information"
+msgid "Madrid"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:408
+#: Services/MarketplaceInformation/MarketplaceInformation.php:408
+msgctxt "Marketplace information"
+msgid "Paris"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:410
+#: Services/MarketplaceInformation/MarketplaceInformation.php:410
+msgctxt "Marketplace information"
+msgid "Rome"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:412
+#: Services/MarketplaceInformation/MarketplaceInformation.php:412
+msgctxt "Marketplace information"
+msgid "London"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:414
+#: Services/MarketplaceInformation/MarketplaceInformation.php:414
+msgctxt "Marketplace information"
+msgid "New Delhi"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:416
+#: Services/MarketplaceInformation/MarketplaceInformation.php:416
+msgctxt "Marketplace information"
+msgid "Tokyo"
+msgstr ""
+
+#: ../storage/framework/messages/a69d71331413212d33a1349d6fd384c841e467fd.php.php:418
+#: Services/MarketplaceInformation/MarketplaceInformation.php:418
+msgctxt "Marketplace information"
+msgid "Beijing"
+msgstr ""
+
+#: ../storage/framework/messages/abe3e87eaf41dabc990ee60f3e6fb537dc8d6d00.php.php:21
+msgctxt "Log Viewer"
+msgid "Reload"
+msgstr ""
+
+#: ../storage/framework/messages/abe3e87eaf41dabc990ee60f3e6fb537dc8d6d00.php.php:36
+msgctxt "Log Viewer"
+msgid "Download"
+msgstr ""
+
+#: ../storage/framework/messages/ae2750b898d668253d2d7304c4f657297234e2ac.php.php:10
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:55
+#: Http/ViewComposers/ProjectsComposer.php:55
+msgctxt "Projects"
+msgid "Completion ID"
+msgstr ""
+
+#: ../storage/framework/messages/af2f2ecc7e9d7d73accdd91238c444c0cb045510.php.php:12
+msgctxt "Users"
+msgid "Edit"
+msgstr ""
+
+#: ../storage/framework/messages/af2f2ecc7e9d7d73accdd91238c444c0cb045510.php.php:24
+msgctxt "Users"
+msgid "Add points"
+msgstr ""
+
+#: ../storage/framework/messages/be57e4ed41c2dba2acd8d2c5f949a67814fdcf7f.php.php:1
+#: ../storage/framework/messages/da6699567bf44d481f6381fd80a7ffc3c85403e4.php.php:59
+msgctxt "Menu option"
+msgid "Dashboard"
+msgstr ""
+
+#: ../storage/framework/messages/c09beb188f907e7acbde69108e60d3f3c0f13cde.php.php:1
+#: ../storage/framework/messages/da6699567bf44d481f6381fd80a7ffc3c85403e4.php.php:77
+msgctxt "Menu option"
+msgid "Statistics"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:39
+msgctxt "Projects (to-dos)"
+msgid "Title"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:44
+msgctxt "Projects (to-dos)"
+msgid "Description"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:54
+msgctxt "Projects (projects)"
+msgid "Title"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:59
+msgctxt "Projects (projects)"
+msgid "Description"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:85
+msgctxt "Projects"
+msgid "Download all"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:89
+#, php-format
+msgctxt "Projects"
+msgid "%u images"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:90
+#, php-format
+msgctxt "Projects"
+msgid "%u medias"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:101
+#, php-format
+msgctxt "Projects"
+msgid "You must submit the completion ID before %s"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:125
+#, php-format
+msgctxt "Projects"
+msgid "Created at %s"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:126
+#, php-format
+msgctxt "Projects"
+msgid "Completion ID submitted at %s"
+msgstr ""
+
+#: ../storage/framework/messages/c1cca574978e3c2d26e474db0fd64e9c31be41ff.php.php:127
+#, php-format
+msgctxt "Projects"
+msgid "Completed at %s"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:19
+#: Http/ViewComposers/ProjectsComposer.php:19
+msgctxt "Projects"
+msgid "Row, ASIN & Seller"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:24
+#: Http/ViewComposers/ProjectsComposer.php:24
+msgctxt "Projects"
+msgid "Freelancer's name"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:29
+#: Http/ViewComposers/ProjectsComposer.php:29
+msgctxt "Projects"
+msgid "To-Do title & Description"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:34
+#: Http/ViewComposers/ProjectsComposer.php:34
+msgctxt "Projects"
+msgid "Project title & Description"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:44
+#: Http/ViewComposers/ProjectsComposer.php:44
+msgctxt "Projects"
+msgid "Image & Media"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:60
+#: Http/ViewComposers/ProjectsComposer.php:60
+msgctxt "Projects"
+msgid "Dates"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:65
+#: Http/ViewComposers/ProjectsComposer.php:65
+msgctxt "Projects"
+msgid "Operations"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:79
+#: Http/ViewComposers/ProjectsComposer.php:79
+msgctxt "Projects"
+msgid "To-Do"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:93
+#: Http/ViewComposers/ProjectsComposer.php:93
+msgctxt "Projects"
+msgid "Yes"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:94
+#: Http/ViewComposers/ProjectsComposer.php:94
+msgctxt "Projects"
+msgid "No"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:98
+#: Http/ViewComposers/ProjectsComposer.php:98
+msgctxt "Projects"
+msgid "ASIN"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:102
+#: Http/ViewComposers/ProjectsComposer.php:102
+msgctxt "Projects"
+msgid "Seller ID"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:106
+#: Http/ViewComposers/ProjectsComposer.php:106
+msgctxt "Projects"
+msgid "Seller name"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:110
+#: Http/ViewComposers/ProjectsComposer.php:110
+msgctxt "Projects"
+msgid "Freelancer name"
+msgstr ""
+
+#: ../storage/framework/messages/c805d81489f611b125c2e7bb5330f2af215489d2.php.php:114
+#: Http/ViewComposers/ProjectsComposer.php:114
+msgctxt "Projects"
+msgid "Creation date"
+msgstr ""
+
+#: ../storage/framework/messages/d210e513b41456ff8318ce06fcbb09aa139b380b.php.php:8
+msgctxt "Users"
+msgid "Create user"
+msgstr ""
+
+#: ../storage/framework/messages/da6699567bf44d481f6381fd80a7ffc3c85403e4.php.php:38
+msgctxt "Menu option"
+msgid "Profile"
+msgstr ""
+
+#: ../storage/framework/messages/da6699567bf44d481f6381fd80a7ffc3c85403e4.php.php:46
+msgctxt "Menu option"
+msgid "Logout"
+msgstr ""
+
+#: ../storage/framework/messages/da6699567bf44d481f6381fd80a7ffc3c85403e4.php.php:71
+#: ../storage/framework/messages/ec2dc3ce563afc0d124828afbbeb34a6a0393ce3.php.php:1
+msgctxt "Menu option"
+msgid "Projects"
+msgstr ""
+
+#: ../storage/framework/messages/ec2dc3ce563afc0d124828afbbeb34a6a0393ce3.php.php:4
+#: ../storage/framework/messages/ec2dc3ce563afc0d124828afbbeb34a6a0393ce3.php.php:8
+msgctxt "Projects"
+msgid "Projects"
+msgstr ""

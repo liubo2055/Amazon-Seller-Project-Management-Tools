@@ -1,0 +1,71 @@
+<template>
+  <textarea
+    class="form-control"
+    ref="text"
+    v-model="currentValue"
+    :maxlength="length"
+    :placeholder="placeholder"
+    @blur="blur()"
+    @change="change($event.target.value)"
+  ></textarea>
+</template>
+<script>
+  export default {
+    props:{
+      focus:{
+        type:Boolean
+      },
+      length:{
+        type:Number
+      },
+      value:{},
+      placeholder:{
+        type:String
+      },
+      language:{
+        type:String
+      }
+    },
+    data(){
+      return {
+        focused:false,
+        currentValue:this.value
+      }
+    },
+    watch:{
+      value(value){
+        this.currentValue=value
+      },
+      language(){
+        this.currentValue=this.value
+      }
+    },
+    mounted(){
+      if(this.value!==undefined)
+        this.change(this.value,true)
+
+      if(this.focus){
+        this.$refs.text.focus()
+        this.focused=true
+      }
+    },
+    methods:{
+      blur(){
+        if(!this.focus||this.focused)
+          this.$emit('blur')
+      },
+      change(value,initial){
+        initial=initial||false
+
+        this.currentValue=value
+
+        if(!initial)
+          this.$emit('input',value)
+        this.$emit('change',{
+          value,
+          initial
+        })
+      }
+    }
+  }
+</script>

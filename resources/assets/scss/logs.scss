@@ -1,0 +1,41 @@
+.log-view{
+  background-color: Black;
+  color: White;
+  cursor: text;
+  font-family: "Lucida Console", Monaco, monospace;
+  height: 400px;
+  margin-top: 20px;
+  overflow: auto;
+  width: 100%;
+}
+
+.log-view .log-line{
+  padding: 2px 0 0 10px;
+  text-indent: -10px;
+}
+
+.log-view .log-line .log-date{
+  color: DarkGray;
+  font-weight: normal;
+}
+
+.log-view .log-line .log-extra{
+  color: LightGray;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.log-view .log-line .log-error{
+  color: Red;
+  font-weight: bold;
+}
+
+.log-view .log-line .log-info{
+  color: Yellow;
+  font-weight: bold;
+}
+
+.log-view .log-line .log-search{
+  color: SpringGreen;
+  font-weight: bold;
+}

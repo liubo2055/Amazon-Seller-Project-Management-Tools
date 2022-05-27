@@ -1,0 +1,66 @@
+{
+  "name": "hui/xp",
+  "description": "X-project",
+  "type": "project",
+  "require": {
+    "php": ">=7.1.0",
+    "Belphemur/laravel-gettext": "^6.0",
+    "aws/aws-sdk-php": "^3.62",
+    "fideloper/proxy": "~3.3",
+    "laravel/framework": "5.5.*",
+    "laravel/tinker": "~1.0",
+    "league/flysystem-aws-s3-v3": "^1.0",
+    "liubo2055/oauth2-hui": "dev-master",
+    "lokielse/omnipay-alipay": "^2.3",
+    "phpoffice/phpexcel": "^1.8"
+  },
+  "require-dev": {
+    "filp/whoops": "~2.0",
+    "fzaninotto/faker": "~1.4",
+    "mockery/mockery": "~1.0",
+    "phpunit/phpunit": "~6.0"
+  },
+  "autoload": {
+    "classmap": [
+      "database/seeds",
+      "database/factories",
+      "database/migrations"
+    ],
+    "psr-4": {
+      "Hui\\Xproject\\": "app/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "post-root-package-install": [
+      "php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+    ],
+    "post-create-project-cmd": [
+      "php artisan key:generate"
+    ],
+    "post-install-cmd": [
+      "Illuminate\\Foundation\\ComposerScripts::postInstall",
+      "php artisan optimize"
+    ],
+    "post-update-cmd": [
+      "Illuminate\\Foundation\\ComposerScripts::postUpdate",
+      "php artisan optimize"
+    ]
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "no-api": true,
+      "url": "git@github.com:liubo2055/oauth2-hui.git"
+    }
+  ]
+}
